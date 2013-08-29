@@ -13,15 +13,14 @@
 
 #The Boundary Problem in Democratic Theory
 
-Sarah Song 2012 International Theory
+**Sarah Song 2012 International Theory**
 
 ## Argument
 
-1.	AI & SC view democracy as overly procedural
+1.	Affected Interest (AI) & Subject to Coercion (SC) view democracy as overly procedural
 2.	Democracy also includes ideals like political equality and solidarity
 3.	AI & SC undermine those ideals
 4.	AI & SC are not suitable basis for bounding the demos.
-
 
 Typical accounts that legitimate the people include:
 

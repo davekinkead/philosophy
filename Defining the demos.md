@@ -7,9 +7,9 @@ Saunders' arguemnts: (p281)
 - that we should focus on rights rather than mere interests,
 - that rights are better respected by limiting the power of groups to infringe them, rather than by requiring them to include or enfranchise the rights-holders
 
-History: Carl sCohen(1971:41–54),JackLively(1975:10–12), Frederick G. Whelan (1983), Giovanni Sartori (1987: 21–5), and Robert A. Dahl (1989: 119–31, 1990: 45–51). Abizadeh (2008) Arrhenius (2007) and Goodin (2007).
+History: Carl Cohen(1971:41–54),JackLively(1975:10–12), Frederick G. Whelan (1983), Giovanni Sartori (1987: 21–5), and Robert A. Dahl (1989: 119–31, 1990: 45–51). Abizadeh (2008) Arrhenius (2007) and Goodin (2007).
 
-"It is frequently claimed that (1) it is unjus- tifiable for one group to impose costs on outsiders unilaterally, so (2) those outsiders ought to be included in the decision-making process. I will argue that, while the first claim is true, the second does not follow and ought to be rejected." (p282)
+"It is frequently claimed that (1) it is unjustifiable for one group to impose costs on outsiders unilaterally, so (2) those outsiders ought to be included in the decision-making process. I will argue that, while the first claim is true, the second does not follow and ought to be rejected." (p282)
 
 All Affected Principle: "I believe it is most charitably interpreted as the claim that all those whose interests are affected ought to be enfranchised." p283
 
@@ -32,7 +32,7 @@ Over inclusiveness is a problem because:
 
 "All might subscribe to the democratic process because it gives weight to their preferences. They may lose on any given decision, but at least they have a chance of winning next time." p289
 
-"Democratic arrange- ments are one form of social interaction that impose particular costs on particular agents on particular occasions, but can be justified because in general they are beneficial to all." p289
+"Democratic arrangements are one form of social interaction that impose particular costs on particular agents on particular occasions, but can be justified because in general they are beneficial to all." p289
 
 "Agents normally face limits on what they can permissibly do. I cannot simply push past you because I am in a rush, for example. Similar limits apply also to collective agents." p289 - this strikes me as a completely incorrect assumption. What can't I push past you, what makes it wrong?
 

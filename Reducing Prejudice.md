@@ -16,6 +16,8 @@ bibtext: @article{grim2005modeling,
 
 Models the contact hypothesis of reduced prejudice with computer simulation of a spatialised game-theoretic model.
 
+### Contact Hypothesis
+
 Hypothesis: According to the contact hypothesis, prejudice against members of one group by members of another will be reduced with increased social contact between members of the groups. p1
 
 Large scale social psychological theories generate practical and ethical obstacles to conducting large-scale controlled tests in which relevant variables can be manipulated.
@@ -32,3 +34,12 @@ Play 200 rounds of prisoner's dilemma with neighbours and adopt the neighbour's 
 
 Add prejudice in the form of colour aware Prejudicial Tit for Tat. T-f-T with like colour, defect with other colour.
 
+When colour is split in 2 halves, TFT and PTFT equally dominate in clusters.
+
+When colour is randomly assigned, TFT strongly dominates supporting the contact hypothesis.
+
+### Social Identify
+
+"People are strongly motivated to develop a positive social identity; positive attitudes towards their own group and prejudice against others is one effect".  This is modelled by giving an extra point to cooperation with same colour.
+
+When colour is split in 2 halves, PTFT strongly dominates.  When colour is randomised, TFT strongly dominates.

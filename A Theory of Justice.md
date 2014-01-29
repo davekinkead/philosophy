@@ -21,23 +21,36 @@ The primary subject of justice is the basic structure of society. p3
 
 The only justification for injustice is the avoidance of a greater one. "Being the first virtues of human activities, truth and justice are uncompromising". The only justification for injustice is the avoidance of a greater one. p4
 
-Assuming society to be more or less self sufficient and purposed for mutual advantage.  There will be inevitable conflict about how to distribute the benefits of cooperation. The principles that determine this distribution are the principles of social justice. p4
+Assuming society to be more or less self sufficient and purposed for mutual advantage.  There is an identity of interests and conflict in this association.  There will be inevitable conflict about how to distribute the benefits of cooperation. The principles that determine this distribution are the principles of social justice. p4
+
+- Rawls makes an assumption that social cooperation is for mutual advantage.  But this in tern presupposed society as a voluntary association, something which doesn't seem to be the case.
+
+A 'well ordered' society is one designed to advance the good of its members and effectively regulated by a public (agreed) conception of justice. p5
 
 The conception of justice is the fundamental charter of well ordered association, where by everyone accepts and knows others accept the principles of justice, and basic social institutions satisfy these principles. p4-5
 
-People may disagree over their conceptions of justice and its principles, but can still agree on the concept of justice.  The concept of justice identifies the role of the principles of social justice. p5
+The concept of justice is different from conceptions of justice.  People may disagree over their conceptions of justice and its principles, but can still agree on the concept of justice.  The concept of justice identifies the role of the principles of social justice. p5
 
 The pursuit of ends requires that "the scheme of social cooperation be stable". Whilst justice is primary, "one conception of justice is preferable to another when its broader consequences are more desirable." p6
+
+We cannot assess a conception of justice by its distributive impact along, as a conception of justice also affects the stability, coordination, and efficiency of society. p6
 
 --- §2 ---
 
 "The primary subject of justice is the basic structure of society ... the major institutions that distribute fundamental rights and duties, and determine the division of advantages that stem from social cooperation" p6
 
-Deep inequalities arise because institutions of society favour certain starting positions. p7
+Deep inequalities arise because institutions of society favour certain starting positions. The principles of social justice must first apply to the inequalities of birth. p7
 
 _A Theory of Justice_ is limited to justice amongst a society. It is not necessarily applicable to justice between societies, nor within voluntary associations. This is an ideal theory concerned with strict compliance of its members p7-8
 
 So a conception of social justice should be regarded firstly as the standard whereby the distributive aspects of society are assessed.  It forms just a part of a complete conception, a social idea. p8-9
+
+Concept of justice: the role of its principles in assigning rights & duties & distribution of benefits of social cooperations; a proper balance between competing claims.  
+
+Conception of justice: set of principles for identifying and determining this balance; an interpretation of this role. p10
+
+
+Every ethical theory must address the issue of justice.  
 
 --- §3 ---
 

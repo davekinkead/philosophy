@@ -66,7 +66,15 @@ The idealised people in the original position are assumed to be rational and mut
 
 Since everyone's well being depends on social cooperation, without which no one would have a satisfactory life, the division of advantages should be such to encourage everyone's cooperation. p13  
 
+- can the original position be viewed as a search for consensus.  it's what parties freely agree to, with no mention of imposition of justice
+
+"The principles of justice as fairness come as close as a society can to being a voluntary scheme" p13
+
 The social contract is not and agreement to enter a cooperative endeavour. It is an agreement to accept certain moral principles. As a social 'contract', it must be to all parties advantage, and public in nature. p14-15
+
+People in the original position would choose 2 principles - equality & difference.  The original position entails this. p14
+
+Argues for the necessity of society: everyone's well being relies on cooperation without which, no-one could have a satisfactory life. p15
 
 --- §4 ---
 
@@ -113,4 +121,6 @@ Reliance on intuition can be further reduced by employing lexical or serial orde
 Moral theory can be thought of as an attempt to describe our moral capacity; an ability to formulate principles and conjoin them with circumstance in order to lead to consistent moral judgements. p41
 
 Justice as fairness then, is the hypothesis that the principles that would be chosen in the original position are identical to our considered moral position in reflective equilibrium; and would be chosen in preference to traditional conceptions of justice. p42-43
+
+
 

@@ -42,8 +42,6 @@ The 2 received views of democracy can be contrasted as:
 	- democracy as an ethical-political discourse, the self-determination of deliberative citizens
 	- democratic will formation constitutes society as a political community
 
-	
-
 Democracy can be though of as the institutionalisation of the public use of reason jointly exercised by autonomous citizens. p23
 
 The communitarian conception of the republican model is too idealistic, dependent on pre political concepts of virtue. p24

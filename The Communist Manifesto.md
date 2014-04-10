@@ -88,3 +88,26 @@ The proletariate will win the battle of democracy and centralise the means of pr
 
 But the formation of a ruling proletariate class is only temporary. Once class distinctions have disappeared and the people control the means of production, the proletariate will rule no more and the free development of each is the condition for the free development of all.
 
+## III. Socialist and Communist Literature
+
+Marx offers a critical ontology of socialist literature:
+
+- Reactionary Socialism
+
+  - _Feudal Socialism_: when the aristocracy allies with the proletariate against the bourgeoisie but join in coercive measures against the working class.
+  
+  - _Petite Socialism_: when the guildsmen ally with the proletariate against the bourgeoise instruments of production.
+  
+  - _German or True Socialism_: the emancipation of French Socialist and Communist literature to stop both the concentration of bourgeoisie capital and proletariate revolution.
+  
+- Conservative or Bourgeoisie Socialism: Elements of the bourgeoisie interesting in redressing social grievances, in order to secure the continued existence of bourgeois society.
+
+- Critical-Utopian Socialism and Communism: the rejection of proletariate revolution by the proletariate in the name of improve the lot of all society.
+
+## Position of the Communists in relation to the various existing Opposition Parties
+
+Communists around the world may align themselves with other parties who share similar immediate goals.  But they never forget their role as the protectors the the proletariates long term interests.
+
+"Communists everywhere support every revolutionary movement against the existing social and political order of things."  They do not hide their aims. "They openly declare that their ends can be attained only by the forcible overthrow of all existing social conditions."
+
+"Let the ruling classes tremble at a Communistic revolution.  The proletarians have nothing to lose but their chains. They have a world to win. Working men of all countries, unite!"

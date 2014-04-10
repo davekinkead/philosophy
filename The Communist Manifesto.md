@@ -36,7 +36,55 @@ But capitalism gives the proletariate both its motivation and means of organisin
 
 Competition creates conflict.  Each group seeks to maintain and increase its own power.  The petite bourgeoisie and lower middle class are reactionary - they seeks to maintain what they have or had.  But those who have nothing have nothing to maintain.  Those who obtain the upper hand seek to subjugate other to maintain their position.  But the proletariate cannot because it owns nothing.
 
-"[E]very form of society has been based, as we have already seen, on the antagonism of oppressing and oppressed classes"  
+"[E]very form of society has been based, as we have already seen, on the antagonism of oppressing and oppressed classes".  What sets the proletariate apart is that they represent the majority rather than a minority.
 
 "The essential condition for the existence, and for the sway of the bourgeois class, is the formation and augmentation of capital; the condition for capital is wage-labor. Wage-labor rests exclusively on competition between the laborers. The advance of industry, whose involuntary promoter is the bourgeoisie, replaces the isolation of the laborers, due to competition, by their revolutionary combination, due to association. The development of Modern Industry, therefore, cuts from under its feet the very foundation on which the bourgeoisie produces and appropriates products. What the bourgeoisie therefore produces, above all, are its own grave-diggers. Its fall and the victory of the proletariat are equally inevitable."
+
+## II. Proletarians and Communists
+
+The Communists represent the interests of the proletariate as a whole.  They are the "most advanced and resolute section of the working class parties" and they hold no separate interests of their own.
+
+"The immediate aim of the Communists is the same as that of all the other proletarian, parties; formation of the proletariat into a class, over-throw of the bourgeois supremacy, conquest of political power by the proletariat."
+
+The abolition of existing property relations is not an exclusively communist idea. All revolutions change property relations - the bourgeoisie abolished feudal property for their own interest.  Communism seeks to abolish all private property so that the few may never exploit the many.
+
+"the theory of the Communists may be summed up in the single sentence: Abolition of private property."
+
+"Property, in its present form, is based on the antagonism of capital and wage-labor."  Capital is a collective product, created by the work of many. Owning capital is therefore social, not personal power.  The transference of personal property to collective property strips it of its class character.  The price of labour is the cost of human subsistence, so there is little to appropriate from the abolition of personal property.   
+
+For the bourgeoisie, labour is a means to accumulate more labour, and results in the past dominating the present.  For the communist, labour is a means to enrich the labourer, and results in the present dominating the past.
+
+When the bourgeoisie objects to the abolition of property as an assault on freedom, they only refer to their own freedom. Private property is already held by an elite minority, so the poor have only a misguided objection to its abolition.
+
+"Communism deprives no man of the power to appropriate the products of society: all that it does is to deprive him of the power to subjugate the labor of others by means of such appropriation."
+
+Every ruling class seeks to transform existing contingent power relations into eternal laws of nature and reason.  Even the family unit is a function of bourgeoisie means, largely denied to the proletariate whose children are forced to work and prostitute themselves.  The bourgeoisie even treats his wife, and hence all women, as yet another means of production to be controlled.
+
+Likewise nationality. "The working men have no country. We cannot take from them what they have not got."  National differences are already being eliminated by the globalisation and cosmopolitanism of capitalism. "The supremacy of the proletariat will cause them to vanish still faster."
+
+All social revolutions have been resisted by those in power who claim them to be counter to some natural state of affairs.  Those resisting today met the same resistance from those they previously overthrew. "The Communist revolution is the most radical rupture with traditional property-relations; no wonder that its development involves the most radical rupture with traditional ideas."
+
+The proletariate will win the battle of democracy and centralise the means of production in the hands of the state.  To do this however, they will need to make despotic inroads against property relations, a temporary but necessary evil.  The advanced socialist state will be characterised by:
+
+1. Abolition of property in land and application of all rents of land to public purposes.
+
+2. A heavy progressive or graduated income tax.
+
+3. Abolition of all right of inheritance.
+
+4. Confiscation of the property of all emigrants and rebels.
+
+5. Centralization of credit in the hands of the state, by means of a national bank with State capital and an exclusive monopoly.
+
+6. Centralization of the means of communication and transport in the hands of the State.
+
+7. Extension of factories and instruments of production owned by the State; the bringing into cultivation of waste lands, and the improvement of the soil generally in accordance with a common plan.
+
+8. Equal liability of all to labor. Establishment of industrial armies, especially for agriculture.
+
+9. Combination of agriculture with manufacturing industries; gradual abolition of the distinction between town and country, by a more equable distribution of population over the country.
+
+10. Free education for all children in public schools. Abolition of children's factory labor in its present form. Combination of education with industrial production, etc., etc.
+
+But the formation of a ruling proletariate class is only temporary. Once class distinctions have disappeared and the people control the means of production, the proletariate will rule no more and the free development of each is the condition for the free development of all.
 

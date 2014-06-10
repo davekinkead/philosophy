@@ -62,5 +62,5 @@ Rawls & Quong object because this could lead to "those with “unjust” and “
 
 But the veto objection requires that people value no rule over a less preferred one.  "Liberalism broadly construed simply is the historically generated solution to the problem of how people who deeply disagree about almost everything can share a system of social cooperation that all see as normative." p20
 
-There will still be disagreement. A “family” of liberal arrangements will justified, but there will be no uniquely publicly justified version.  "The question for contemporary public reason liberals is how one of the many equilibria is to be selected."
+There will still be disagreement. A “family” of liberal arrangements will justified, but there will be no uniquely publicly justified version.  "The question for contemporary public reason liberals is how one of the many equilibria is to be selected." p21
 

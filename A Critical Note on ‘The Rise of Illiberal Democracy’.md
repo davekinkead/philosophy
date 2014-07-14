@@ -1,7 +1,7 @@
 ---
-bibtex: @article{m2008critical,
+bibtex: @article{møller2008,
   title={A critical note on ‘the rise of illiberal democracy’},
-  author={M⊘ ller, J⊘ rgen},
+  author={M⊘ller, J⊘rgen},
   journal={Australian Journal of Political Science},
   volume={43},
   number={3},

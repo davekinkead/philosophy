@@ -1,5 +1,5 @@
 ---
-bibtex: @article{schelling1969models,
+bibtex: @article{schelling1969,
   title={Models of segregation},
   author={Schelling, Thomas C},
   journal={The American Economic Review},

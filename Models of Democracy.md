@@ -76,3 +76,37 @@ A return to the classical tradition. Rejection of the idea that ruling was a fun
 'Democracy' became a pejorative after Aristotle, more associated with the rule of the rabble & interests of the poor at the expense of the common good.  Republican democracy was more like a democratic aristocracy. p33
 
 Republicanism can be distinguished as humanist vs classical: the intrinsic role of participation vs instrumental. p36
+
+
+## Deliberative Democracy
+
+"The story of democracy contains both a celebration of the end of arbitrary rule and paternalistic politics, and anxiety that democracy could mean rule by the rabble." p231
+
+Within democratic thinking, a clear distinction exists between those who value participation for its self realisation role, and those who value it for instrumental purposes.  Between protection and actualisation.
+
+Definition:
+
+- a political approach focused on improving the quality of democratic participation. p232
+- public deliberation is the core of legitimate political decision making and self governance. p237
+
+Again this distinction between democracy as a reflective process and democracy as a transformative one. Is democracy the zero sum aggregation of individual wills or some synergistic whole-is-greater-than-the-parts production of something more. (p232)
+
+Enlighten political judgment is one that is: (p232)
+
+- fact-regarding
+- future-regarding
+- other-regarding
+
+Deliberation can be the source of political legitimacy - something that doesn't exist before a body politic is formed. p233
+
+Fishkin on contemporary democracy: "a forced choice between politically equal but relatively incompetent masses and politically unequal but relatively more competent elites" p234
+
+A confusion exists between behaviour and justifications that are appropriate for the market place and those appropriate for the forum.  Liberal democracy only recognises private views and interests . p236
+
+Increasing the level of political participation alone does not address the issue of the quality of participation. p236
+
+Deliberation overcomes the limitations of aggregation by (p237-8)
+
+- sharing information and pooling knowledge can transform individual understanding
+- reveal how preference formation is linked to sectional interest
+- replace the language of interest with the language of reason

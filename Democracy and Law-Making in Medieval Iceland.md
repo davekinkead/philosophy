@@ -27,7 +27,7 @@ bibtext: @incollection{Boulhosa2011,
 
 "Free men, aged 12 years or older, with a settled home, and who were capable of taking responsibility for what they said or swore were selected by the goðar to act as judges in each of the Quarter Courts" ... "If he did not own milking stock or was not a landowner, he did not qualify as a house- holder and belonged to the assembly group of the householder into whose care he put himself " p99
 
-"the complexity of the communitarian structures which we see in the Grágás seems to reflect a fairly participative and dynamic legal system, even if one ultimately controlled by an oligarchy." p100
+"the complexity of the communitarian structures which we see in the Grágás seems to reflect a fairly participative and dynamic legal system, even if one ultimately controlled by an oligarchy." p100
 
 "According to the perception of the sagas, King Haraldr threatened the old social order, which was based on individuals’ freedom and power of decision as well as on their ancestral rights." p101
 

@@ -48,3 +48,5 @@ Many		| 	Polity 			|	Democracy
 
 "Aristotle argues that for city-states that fall short of the ideal, the best constitution is one controlled by a numerous middle class which stands between the rich and the poor. For those who possess the goods of fortune in moderation find it “easiest to obey the rule of reason” (Politics IV.11.1295b4–6)."
 
+"Although Aristotle classifies democracy as a deviant constitution (albeit the best of a bad lot), he argues that a case might be made for popular rule in Politics III.11, a discussion which has attracted the attention of modern democratic theorists. The central claim is that the many may turn out to be better than the virtuous few when they come together, even though the many may be inferior when considered individually. For if each individual has a portion of virtue and practical wisdom, they may pool these assets and turn out to be better rulers than even a very wise individual. This argument seems to anticipate modern arguments for “the wisdom of the multitude” such as Condorcet's “jury theorem.”'"
+

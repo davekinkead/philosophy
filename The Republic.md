@@ -68,4 +68,6 @@ The excessive desire for liberty at the expense of everything else results in ty
 
 Tyranny is the result of democracy, and slavery the result of extreme freedom [564a].  Savvy politicians manipulate the people with appeals to self-interest.  They aquier body guards, then private armies, disarm the people, then seize absolute power. 
 
+In us all is a terribly bestial and immoral type of desire [572b].  The tyrannical character is one that combines drunkenness, lust, and madness [573c].  The tyrant's life is utterly retched living in constant fear of overthrow and expending all energies on maintaining power.
 
+The life of the just man, the philosopher, is better in reason and desire than any other.  Wrongness and injustice cannot pay. Goodness is its own reward. But the perfect state is an ideal only.

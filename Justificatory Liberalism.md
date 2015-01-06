@@ -29,3 +29,17 @@ Jerry's account is not consistent with _blind emotivism_ but is with affect-cogn
 Public justifications can start with the individual or the group. Habermas starts with the latter although Jerry's isn't inconsistent with that. p11
 
 "The very idea of reasonable pluralism supposes that we have reasonable views that cannot be publicly justified" p11
+
+**Inferentially Justified**: beliefs that are justified because they are supported by, or follow from, reasons. p17
+
+Justifying a belief while rejecting the reason for holding it is hypocritical. p17
+
+"To be justified in believing B one must have or accept the reasons that justify it." p17
+
+From Williams: "rational beliefs are caused by the reasons which are their grounds" p19
+
+Justified beliefs have sustaining causes for accepting the reasons of the belief.
+
+"To restrict reasons in inferential justification to belief states would be to rule out a priori, that feelings can be grounding reasons for beliefs." p29
+
+

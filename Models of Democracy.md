@@ -130,11 +130,25 @@ General Conditions
   - domestic service of women to free men for work and politics
 
 
+## Liberal Democracies
+
+Increases in bureaucratic competency - centralised administration & organisation - permitted the emergence of _public authority_ and _sovereignty_ - the supreme and indivisible territorial power. p57  This increased the scope & totality of political control of daily life.
+
+Also associated with this period is a religious doctrine that required the submission of judgement to others - priests and nobles.
+
+Held claims that the increasing totality of political power meant that coersion was no longer enough for political control.  Concepts of obligation and reciprocity were needed to have subjects _willingly_ obey which set the scene for limits to absolute power and governmental responsibility. p57
+
+"liberalism sought torestrict the powers ... and define a uniquely private sphere independent of church and state" p 59
+
+The central liberal problem was how to balance the sovereignty of the state with the sovereignty of the people.
+
+
 ## Protective Democracy
 
 Justification (p78)
 
-  - citizens require protections from the governors, as well as from each other, to ensure that those who govern pursue policies that are commensurate with citizens interests as a whole
+  - citizens require protection from their rulers and each other
+  - laws must exists to promote policies commensurate with citizen's interests
 
 Key Features
 
@@ -153,6 +167,31 @@ General Conditions
   - patriarchal family
   - primacy of the nation-state
 
+
+ ## Developmental Democracy
+
+ Justification (p92)
+
+  - participation in political life is necessary both for protection of individual interests as well as the development and promotion of individual capacities
+
+Key Features
+
+  - popular sovereignty with universal suffrage
+  - representative government
+  - constitutional checks to promote individual rights 
+  - clear seperation of the legislature from the bureaucracy 
+  - popular involvement in politics and public life through local government & juries
+
+General Conditions
+
+  - an independent civil society
+  - competitive market economy
+  - private control over the means of production
+  - political emancipation of women but domestic subjugation
+  - primacy of the nation-state
+
+
+  
 
 <-- notes on hobbes, locke, montescuea, bentham, mill, woolstoncraft here
 

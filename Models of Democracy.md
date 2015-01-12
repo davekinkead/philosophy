@@ -193,7 +193,61 @@ General Conditions
 
 ## Direct Democracy
 
-<-- continue CH4 here
+The origins of class: p97
+
+  - earliest tribal societies where classless without economic surplus or private property
+  - agriculture led to surplus, appropriation of surplus and private property
+  - those who control the means of production can capture surplus and live off the work of others
+
+Marx believed that democracy was incompatible with capitalism.  Realising democracy required reorganising society & the economy. p103
+
+Capitalism leads to crises due to overproduction and crises lead to concentration of economic and political power. p102
+
+The state defends individuals as if differences don't exist even though that formal equality entrenches substantive inequality. p103
+
+Marx rejects the liberal claim of private/public realms.  All this does is depoliticise private ownership of the means of production. p103
+
+Liberal theory restricts freedom to a minority of population by affirming the central place of capitalism and markets. p109
+
+An immediate objection of post-revolution is the establishment of unrestricted authority of the state to dismantle capitalist relations p113
+
+Socialism seeks to appropriate the means of production, centralise control, increase productive forces and dissolve the bourgeois state. 
+
+Communism seeks to end exploitation, achieve consensus on all public questions, to make laws, coercion, and material need redundant. p112
+
+
+"Instead of deciding once in three to six years which member of the ruling class was to misrepresent the people in Parliament..." Marx, Civil War p67
+
+Marx's vision was: p116
+
+  - democratic freedom and equality combined through...
+  - the end of politics
+  - the planned use of resources
+  - efficient production
+  - greater leisure
+
+Marxism manifested in three main forms p 116
+
+  - libertarians who rejected all forms of coercion and control
+  - pluralists who sought to use existing structures to achieve change
+  - orthodox who required a revolutionary party to oversee change
+
+Justifications p120
+
+  - the free development of all requires the free development of each
+  - freedom requires the end of exploitation and only equality can realise full human potential
+
+Key Features
+
+  - public affairs to be regulated by communes (socialism); government in all forms gives way to self-regulation (communism)
+  - public office filled by frequent election (socialism); public affairs governed collectively (communism)
+
+General Conditions
+
+  - unity of the working class (until class disappears)
+  - end of class privilege (abolition of scarcity)
+  - increased productivity
+  
 
 ## Deliberative Democracy
 

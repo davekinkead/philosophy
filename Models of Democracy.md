@@ -191,10 +191,9 @@ General Conditions
   - primacy of the nation-state
 
 
-  
+## Direct Democracy
 
-<-- notes on hobbes, locke, montescuea, bentham, mill, woolstoncraft here
-
+<-- continue CH4 here
 
 ## Deliberative Democracy
 

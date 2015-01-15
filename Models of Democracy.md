@@ -247,7 +247,54 @@ General Conditions
   - unity of the working class (until class disappears)
   - end of class privilege (abolition of scarcity)
   - increased productivity
-  
+
+
+## Competitive Elitism
+
+Weber argued that a liberal polity can only be defended on procedural grounds because the competition of values makes substantive justification impossible. p128
+
+Direct democracy requires relative equality of participants. p129
+
+The extension of the franchise leads to diversity of political organisations.  Competition amongst them leads to strict party apparatuses and the narrowing of policy options.  Representatives become yes-men and party leadership becomes supreme. p135
+
+Schumpeter claimed that the common good was a fiction because people have different wants and different values. p147
+
+Lovers of democracy must clear their creed of make-believe that the people hold definite and rational beliefs on policy. The purpose of democracy is to choose which leaders are to govern. p149
+
+But a competitive system of elites is not a market. There are only a few 'sellers' and they set the price and range of goods on offer. This is a political oligopoly (Macpherson 1977 p 89)
+
+Justification p157
+
+  - democracy is a method of selecting a skilled political elite as well as a limit to their excesses
+
+Key features
+
+  - parliamentary government with strong executive
+  - competition between rival elites
+  - domination of party politics
+  - centrality of political leadership
+  - well trained civil service
+  - constitutional limits
+
+General conditions
+
+  - an industrial society
+  - fragmented social conflict
+  - poorly informed electorate
+  - emergence of skilled bureaucrats
+
+
+## Pluralist Democracy
+
+Democracy is the manifestation of competition amongst a web of competing individual and group interests - a polyarchy.
+
+Dahl defines power as a realistic relationship describing A's capacity to control B's responses (Dahl 1956 p 13)
+
+A majority is more than an arithmetic expression. It must also be able to take coordinated action to have power. p 161
+
+Elite's can't just rule arbitrarily - they are constrained by the underlying majority consensus that lays down the parameters of political life. p164
+
+
 
 ## Deliberative Democracy
 

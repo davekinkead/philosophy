@@ -288,11 +288,76 @@ General conditions
 
 Democracy is the manifestation of competition amongst a web of competing individual and group interests - a polyarchy.
 
+A polyarchy requires consensus on the rules of procedure, range of policy options, and scope of political authority. p164
+
 Dahl defines power as a realistic relationship describing A's capacity to control B's responses (Dahl 1956 p 13)
 
 A majority is more than an arithmetic expression. It must also be able to take coordinated action to have power. p 161
 
 Elite's can't just rule arbitrarily - they are constrained by the underlying majority consensus that lays down the parameters of political life. p164
+
+"There are many tensions between equality and liberty, but equality is not in gernal inimcal to liberty" p169
+
+"The most fundamental challenge to liberty derives from inequality" (or the liberty to aquire unlimited resources) p170
+
+From Dahl (1985) modern capitalism produces inequalities so severe they are a threat to political equality. p170
+
+"In order to remain in power in in a liberal democratic electoral system, governments must, in other words, take action to secure the profitability and prosperity of the private sector; they are dependent upon the process of capital accumulation which they have for their own sake to maintain." p 170
+
+"Democracy is embedded in a socioeconomic system that systematically grants a privileged position to business interests." p171
+
+
+
+
+Justifiction p173
+
+  - secures liberties with government by minorities
+  - acts as an obstacle to excessive power factions and unresponsive government
+
+Key Features
+
+  - citizenship rights, one person one vote, freedom of expression, freedom of organisation
+  - system of checks and balances between executive, legislative, judiciary, and bureaucracy
+  - competitive electoral system with at least two parties
+
+General Conditions
+
+  - multiple power groups but biased towards corporate power
+  - state institutions forge their own sectional interests
+  - power contested by numerous groups
+  - poor resource base for some groups limits their influence
+  - uneven socioeconomic distribution
+  - insufficiently open government
+  - international power compromised by powerful multinational corporations
+
+Miliband argues differently.  The state doesn't have an identity with the capital class, but does has a strong affinity with it. p174
+
+  1. there is a dominant class that controls the means of production
+  2. that class has close links to powerful institutions
+  3. it is disproportionately represented in government
+
+Claus Offe highlights the contradictions in modern capitalist democracy. p176
+
+  1. private capital is the chief foundation of economic enterprise
+  2. the finances of the state depends on this enterprise (via taxation)
+  3. the state lacks direct control over this funding source
+  4. political power must be won with mass electoral support
+  5. but economic inequalities disadvantages those without capital
+  6. so the state must permit the accumulation of private capital upon which it depends while pretending to be neutral to all citizens
+
+"The nature of political power is determined in a dual way: by formal rules of democratic and representative government which fix the institutional form of _access_ to political power, and by the material content of the accumulation process which sets the _boundaries_ of successful polices." p177
+
+His liberal democratic capitalist state is defined by:
+
+  1. its exclusion of accumulation
+  2. its necessary function for accumulation
+  3. its dependency on accumulation
+  4. its requirement to deny and conceal this.
+
+The state must maintain the accumulation process without undermining private accumulation or the belief that private accumulation is best for all.
+
+
+<--- continue here
 
 
 

@@ -48,6 +48,8 @@ The ideal deliberative procedure seeks to filter nonpublic claims from claims or
 
 Deliberative accounts are based on the exchange of reasons acceptable to others with different views and require the protection of nonpolitical rights as a constitutive element of democracy. p45
 
+Song completely misses the point.  Yes the demos should be bounded by the state but she doesn't explain which state should bound which demos!
+
 
 
 

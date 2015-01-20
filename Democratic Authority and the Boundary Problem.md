@@ -40,7 +40,7 @@ The neo-kantian school is partly a backlash against contemporary skeptiscism abo
 
 "In order to create a “districted” solution in a world of more-or-less continuous population, however, boundary lines between districts will have to be drawn in more-or-less arbitrary ways—or, at least, in ways no longer guided simply by “natural” facts about who will inevitably interact with whom." p332
 
-"If existing political boundaries fail to reflect “morally respectable” solu- tions to the problem of the need for localized justice, why should we take the legitimate territorial jurisdictions of existing states or the genuine political obligations of their claimed subjects to be determined by such a morally tainted process?" p332
+"If existing political boundaries fail to reflect “morally respectable” solutions to the problem of the need for localized justice, why should we take the legitimate territorial jurisdictions of existing states or the genuine political obligations of their claimed subjects to be determined by such a morally tainted process?" p332
 
 "Kantian option, one state looks to be as good as another for first-stage purposes (within obvious limits); what is called for by the first-stage argument is only membership in a state (with a certain acceptable structure), not membership in any particular established state." p333
 
@@ -67,6 +67,8 @@ The neo-kantian school is partly a backlash against contemporary skeptiscism abo
 "Political authorities are tasked to solve distinctive kinds of coordination problems and prevent catastrophic social chaos, and these problems (their “urgent tasks”), while global, must be solved locally." p347
 
 "One cannot be obligated to do one’s fair share in a cooperative enterprise unless one legitimately counts as a member of the cooperating group in the first place." p349
+
+"one simply cannot defend a plausible theory of domestic justice and legitimacy without first identifying the persons and territories that count as rightfully inside and rightfully outside a state’s boundaries of authority." p351
 
 "One could argue, for instance, that while nonideal theory should aim at the eventual achievement of a political ideal that includes both full structural and full historical political rightness, the most imperative of the permissible and feasible steps on the path toward that ideal is structural change in the domestic institutions of states. " p355
 

@@ -1,3 +1,16 @@
+---
+bibtex: @article{simmons2013democratic,
+  title={Democratic Authority and the Boundary Problem},
+  author={Simmons, A John},
+  journal={Ratio Juris},
+  volume={26},
+  number={3},
+  pages={326--357},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+---
+
 # Democratic Authority and the Boundary Problem
 
 ### AJ Simmons (2013)
@@ -21,7 +34,7 @@ Utilitarian or other accounts that show why we have obligations to _an_ authorit
 
 "A theory of political obligation and authority should explain why all and only those naturally identified as a political society’s members are specially bound to that particular political society." p329
 
-"The boundary problem is the problem faced by such a theory of providing an argument that draws the “boundaries” of political obligation, political authority, and territorial sovereignty in the correct place." p329
+"A theory of political obligation and authority should explain why all and only those naturally identified as a political society’s members are specially bound to that particular political society. The boundary problem is the problem faced by such a theory of providing an argument that draws the “boundaries” of political obligation, political authority, and territorial sovereignty in the correct place." p329
 
 The neo-kantian school is partly a backlash against contemporary skeptiscism about political authority and would include "David Estlund (2008), Thomas Christiano (2008), Scott Shapiro (2002), Anna Stilz (2009), Jeremy Waldron (1999a, esp. chap. 5), " p330
 

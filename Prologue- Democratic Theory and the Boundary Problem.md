@@ -22,6 +22,8 @@ Typical accounts of democracy are participatory, majoritarian or consent based. 
 
 Boundary drawing and determination of political membership is perhaps the most fundamental political decision. Yet, it is a problem completely insoluble from within the framework of democratic theory. p16
 
+Effective democracies require broad consensus on fundamental matters of inclusion. Their boundaries must be recognised as fair and appropriate. p41
+
 ## All-Affected Principle
 
 Intuitively, all those affected by some policy ought have a voice in making it. (p16) The intuition is clear when burdens are to be imposed but not so clear that those receiving benefits ought have a say in the matter. (p17)
@@ -64,5 +66,7 @@ Economic patterns develop in response to political boundaries, just as much as t
 ## Autonomy
 
 Size of a democratic people determines both its citizen effectiveness and system capacity (see Dahl 1973 Size & Democracy).  Yet autonomy suffers the same problem as the all-affected principle - constituting the people on a per-issue basis, or changing them over time.
+
+These other principles fail to 'command general respect' p40
 
 

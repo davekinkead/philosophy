@@ -11,13 +11,11 @@ bibtex: @article{arrhenius2005boundary,
 
 # The boundary problem in democratic theory
 
-"If we take democracy as a decision method, then Whelan charge against democratic theory misses its target since it is not supposed to deliver any solution to the boundary problem. If we take democracy as a normative ideal, then there seems to be a promising candidate for a boundary principle: the all affected principle." p14
+The boundary problem is defined as "Who should be eligible to take part in which decision-making processes?" p1  It is a "fundamental issue in democratic theory" p1 but it is "perhaps not equally clear that the boundary problem raises problem regarding the justification and legitimacy of democracy." p2
 
-The boundary problem is defined as "Who should be eligible to take part in which decision-making processes?" p1
+His position is that "if we take democracy as a decision method, then Whelan's charge against democratic theory misses its target since it is not supposed to deliver any solution to the boundary problem. If we take democracy as a normative ideal, then there seems to be a promising candidate for a boundary principle: the all affected principle." p14
 
-"It is perhaps not equally clear that the boundary problem raises problem regarding the justification and legitimacy of democracy." p2
-
-Highlights a number of related questions: p3
+He highlights a number of related questions: p3
 
   - "how we should decide the relevant political competence for membership in the political community?"
 
@@ -25,7 +23,7 @@ Highlights a number of related questions: p3
 
   - "Another boundary problem concerns beings that lack the capacity to take part in the democratic process but who are going to be affected by policies adopted and that could be represented by proxies, for example minors and future generations"
 
-His argument:
+The argument:
 
   - There's a difference between a normative ideal and a decision rule
   - A theory can be accepted as a normative ideal but rejected as a decision rule
@@ -34,6 +32,8 @@ His argument:
 "Someone who takes democracy as a practical decision method justified by a normative ideal doesn’t hold that democracy is the foundation of legitimate government but that its legitimacy derives from the ideal." p5
 
 "If we take democracy as a practical decision method and again raise the question of who should take part in which decision procedures, it seems clear that this has to be answered by the normative ideal that motivated the choice of democracy in the first place" p7
+
+> So it appears that instrumental accounts of democracy aren't bothered by the regress objection.
 
 "if we see the all affected principle as part of a democratic ideal, then whether or not a decision is democratic, or whether it is more or less democratic, will depend on some conception of “relevantly affected”" p9
 
@@ -45,4 +45,4 @@ Nozick as an interesting counterpoint to the all affected principle
 >
 > -- Nozick "Anarchy, State, and Utopia" p269
 
-He Acknowledges the all affected principle fits well with democratic conceptions that concern distribution of influence or power e.g. epistemic democracy. p14
+He does however acknowledge the all affected principle fits well with democratic conceptions that concern distribution of influence or power e.g. epistemic democracy. p14

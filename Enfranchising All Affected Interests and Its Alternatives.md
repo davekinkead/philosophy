@@ -15,7 +15,6 @@ bibtex: @article{goodin2007enfranchising,
 
 #### Robert Goodin
 
-
 Goodin defines the boundary problem as "How do we specify the group making those decisions?" but prefers to call it the problem of “constituting the demos.” p40 
 
 His position is that the "democratic ideal ought ideally be to enfranchise “all affected interests.” Understood in a suitably expansive “possibilistic” way, that would mean giving virtually everyone everywhere a vote on virtually everything decided anywhere." p68
@@ -57,4 +56,6 @@ On acutal affected interests: "which interests are “actually affected” depen
 
 So we can restrict the scope of democratic action on only those affected - "The “all affected interests” standard can thus be satisfied in either of two ways. One is by expanding the franchise, giving a say to all those who would be affected. Another is by restricting the power of the demos, so it is only allowed to make decisions that affect only those who do have a say." p63
 
-The constraining version could be realised with a "not “no spillovers” but, rather, “no uncompensated spillovers.” p 66
+The constraining version could be realised with a "not “no spillovers” but, rather, “no uncompensated spillovers.” p66
+
+"Purely as a matter of democratic third best, the price of not enfranchising everyone we ideally should is that we would have to pay them off for any harms we inflict upon them and accede to their demands for fair recompense for any benefits we derive from the wrongfully disenfranchised." p68

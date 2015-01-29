@@ -307,8 +307,6 @@ From Dahl (1985) modern capitalism produces inequalities so severe they are a th
 "Democracy is embedded in a socioeconomic system that systematically grants a privileged position to business interests." p171
 
 
-
-
 Justifiction p173
 
   - secures liberties with government by minorities
@@ -357,15 +355,77 @@ His liberal democratic capitalist state is defined by:
 The state must maintain the accumulation process without undermining private accumulation or the belief that private accumulation is best for all.
 
 
-<--- continue here
+## Legal Democracy 
 
+A combination of factors - rapid increase in productivity, recent excesses of the far left & right, increasing aspirations, mass consumerism - contributed to stable post war democracy in the West.  Lipset describes it as the _end of ideology_ while Marcuse likens it to _one dimensional society_. p188
+
+The depoliticalisation of society coincided with democracy being viewed in more instrumental terms. p189
+
+Taxonomy of Political Acceptance (p197)
+
+  1. coercion
+  2. tradition
+  3. apathy
+  4. pragmatic acquiescence
+  5. instrumental acceptance
+  6. normative agreement
+  7. ideal normative agreement
+
+Marginalised groups develop a sense of fatalism when "inequalities, privileges, and disadvantages are  seen as determinised political and economic forces." p199
+
+If politics is the art of the possible, and governments have incentives to maintain power, then they will seek to promote policies that secure the existing order, promote the interests of those with influence (capitalists) while pretending to represent the masses and dispersing the effects of policy unevenly. p200
+
+The new right, inspired by Nozik and Hayek, sought to prioritise liberalism over democracy. p201
+
+Justifications: (p207)
+
+  - Majority rule is useful for limiting government largess but democracy shouldn't encroach into the law.
+
+Key features
+
+  - Constitutional states
+  - Rule of law
+  - minimal state intervention into society
+  - free markets given the largest scope possible
+
+General Conditions
+
+  - Effective political leadership guided by liberal principles
+  - Minimisation of bureaucratic regulation
+  - Restricted role of interest groups (except business groups)
+  - International free trade
+  - Reduction in the threat of collectivism
+
+
+## Participatory Democracy 
+
+The new-left's response to the neoliberal's conception of democracy was for mass participation in politics.  This differs from direct democracy in that it is compatible with representation.
+
+For McPherson and Pateman, this requires decentralisation and devolution of political power to local groups and a central emphasis on self-determination when conceptualising democracy.
+
+Justification (p215)
+
+  - An equal right to liberty and self-determination can only be achieved in a participatory society.
+
+Key features:
+
+  - direct participation of citizens in regulating the key institutions of society.
+  - reorganisation of the party system to make officials more accountable.
+  - open government to promote transparency
+
+General Conditions
+
+  - Redistribution of resources to ensure equal opportunities for all
+  - Bureaucratic power to be accountable
+  - Open information to ensure informed decisions
+  - Child care provisions to allow female participation
 
 
 ## Deliberative Democracy
 
 "The story of democracy contains both a celebration of the end of arbitrary rule and paternalistic politics, and anxiety that democracy could mean rule by the rabble." p231
 
-Within democratic thinking, a clear distinction exists between those who value participation for its self realisation role, and those who value it for instrumental purposes.  Between protection and actualisation.
+Within democratic thinking, a clear distinction exists between those who value participation for its self realisation role, and those who value it for instrumental purposes.  Between protection and actualisation / development.
 
 Definition:
 
@@ -374,7 +434,7 @@ Definition:
 
 Again this distinction between democracy as a reflective process and democracy as a transformative one. Is democracy the zero sum aggregation of individual wills or some synergistic whole-is-greater-than-the-parts production of something more. (p232)
 
-Enlighten political judgment is one that is: (p232)
+Enlighten political judgement is one that is: (p232)
 
 - fact-regarding
 - future-regarding
@@ -390,6 +450,6 @@ Increasing the level of political participation alone does not address the issue
 
 Deliberation overcomes the limitations of aggregation by (p237-8)
 
-- sharing information and pooling knowledge can transform individual understanding
-- reveal how preference formation is linked to sectional interest
-- replace the language of interest with the language of reason
+  - sharing information and pooling knowledge can transform individual understanding
+  - reveal how preference formation is linked to sectional interest
+  - replace the language of interest with the language of reason

@@ -453,3 +453,22 @@ Deliberation overcomes the limitations of aggregation by (p237-8)
   - sharing information and pooling knowledge can transform individual understanding
   - reveal how preference formation is linked to sectional interest
   - replace the language of interest with the language of reason
+
+Justification: (p253)
+
+  - the legitimacy of political decisions is the mutual justification provided by free and reasoned assent of citizens
+
+Key Features:
+
+  - deliberative polls, citizen juries
+  - e-government initiatives
+  - group analysis and generation of policy
+  - new use of referenda
+
+General Conditions:
+
+  - value pluralism
+  - strong civic education
+  - public culture supporting refined and reflective preferences
+  - public funding of deliberative bodies
+

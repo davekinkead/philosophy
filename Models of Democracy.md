@@ -472,3 +472,48 @@ General Conditions:
   - public culture supporting refined and reflective preferences
   - public funding of deliberative bodies
 
+
+## Democratic Autonomy
+
+Whether or not we acknowledge it, our activities presuppose a particular framework of state and society.
+
+"The actions of the apathetic do not escape politics; they merely leave things as they are....We do not have the option of 'no politics'" p259
+
+Democracy is compatible with a wide range of substantive values.  The principle of autonomy is at the centre of the modern democratic project. p260
+
+Autonomy is defined here as self-conciousness, self-reflection, and self-determining. p263
+
+> Persons should enjoy equal rights and obligations in the specification of the political framework which governs their lives, provided they do not deploy this framework to negate the rights of others. p264
+
+It's the only grand or meta-narrative that can legitimately delimit other competing narratives. It "is the value that link and mediate among competing prescriptive concerns" p261
+
+The new left has sought to uncover how the free development of each is compatible with the free development of all. p262
+
+**Key Differences & Similarities**
+
+Republicanism | Liberalism | Marxism p268
+
+  1. Response to power of monarchs (R), to concentrations of state power (L), to concentrations of economic power (M)
+
+  2. Liberty requires self-governing participatory polity (R), separation of state & society (L), restructuring of society (M)
+
+  3. Freedom and politics are linked (R), freedom requires an impartial state (L), an impartial state can only exist when it is dependent on capitalism (M)
+
+  4. The common good requires each fulfilling their ends mediated by the state (R), decisions are best left to marks (L), public direction of resources (M).
+
+"Politics is about power" p270
+
+If the final adgenda of politics is out of the peoples control, then it is a democracy in name only. p272
+
+Democracy then, needs to be a double sided phenomenon - reforming state power and restructuring civic society. p276
+
+Resource equality is necessary for political equality p278 - see also Dahl.
+
+
+## Cosmopolitan democracy 
+
+Motivated by a concern with spillover effects and externalities.
+
+- regional impact
+- globalisation
+- transnational bodies

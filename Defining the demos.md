@@ -1,13 +1,38 @@
+---
+bibtex: @article{saunders2012defining,
+  title={Defining the demos},
+  author={Saunders, Ben},
+  journal={Politics, Philosophy \& Economics},
+  volume={11},
+  number={3},
+  pages={280--301},
+  year={2012},
+  publisher={SAGE Publications}
+}
+---
+
 # Defining the demos
 
 **Ben Saunders 2012**
 
-Saunders' arguemnts: (p281)
+Saunders defines the boundary problem as the issue of who is to be included concerns both spatial outsiders and internal exclusions. p295
+
+He criticizes the ‘all-affected principle’ and the claim that we must enfranchise almost everyone in almost every decision.
+
+Saunders' key claims are: (p281)
 
 - that we should focus on rights rather than mere interests,
 - that rights are better respected by limiting the power of groups to infringe them, rather than by requiring them to include or enfranchise the rights-holders
 
-History: Carl Cohen(1971:41–54),JackLively(1975:10–12), Frederick G. Whelan (1983), Giovanni Sartori (1987: 21–5), and Robert A. Dahl (1989: 119–31, 1990: 45–51). Abizadeh (2008) Arrhenius (2007) and Goodin (2007).
+His conclusion is that the boundary problem can be solved by accepting an arbitrary demos but limiting their scope by preventing negative externalities according to some non-democratic moral principle.
+
+This is because "individuals may be understood as waiving certain rights where they are part of a democratic group, thus explaining why groups are able to affect their members in ways that they cannot legitimately affect outsiders." p281
+
+History: Carl Cohen(1971:41–54), JackLively(1975:10–12), Frederick G. Whelan (1983), Giovanni Sartori (1987: 21–5), and Robert A. Dahl (1989: 119–31, 1990: 45–51). Abizadeh (2008) Arrhenius (2007) and Goodin (2007).
+
+"Until we know the relevant group of decision-makers, it seems that there is no prospect of a genuinely democratic decision." p281
+
+"There is no need for a decision-making group to include all who are affected by a decision." p281
 
 "It is frequently claimed that (1) it is unjustifiable for one group to impose costs on outsiders unilaterally, so (2) those outsiders ought to be included in the decision-making process. I will argue that, while the first claim is true, the second does not follow and ought to be rejected." (p282)
 
@@ -38,7 +63,7 @@ Over inclusiveness is a problem because:
 
 The imposition of costs to insiders is acceptable because they gain 'net benefits in the long term'. This is not true of outsiders. p290
 
-"Thus, the decision- making power of the demos ought to be limited to distributing benefits and burdens internally and not to affecting outsiders (negatively, at least)." p290
+"Thus, the decision-making power of the demos ought to be limited to distributing benefits and burdens internally and not to affecting outsiders (negatively, at least)." p290
 
 "The decisional power of a group need not, therefore, be limited to what does not affect outsiders, but only to what does not harm outsiders." p290
 

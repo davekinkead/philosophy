@@ -1,5 +1,16 @@
-Principles of Cosmopolitan Order
-================================
+---
+bibtex:   @article{held2005principles,
+    title={Principles of Cosmopolitan Order},
+    author={Held, D.},
+    journal={The Cosmopolitanism Reader},
+    pages={229},
+    year={2005},
+    publisher={Polity Pr}
+  }
+  ---
+
+# Principles of Cosmopolitan Order
+
 
 Cosmopolitanism is concerned to disclose the ethical, cultural, and legal basis of political order in a world where political communities and states matter, but not only and exclusively.  p1
 
@@ -29,14 +40,3 @@ Claims these are all justified by:
 
 1. the metaprinciple of autonomy 
 2. the metaprinciple of impartialist reasoning.
-
-
-
-	@article{held2005principles,
-	  title={Principles of Cosmopolitan Order},
-	  author={Held, D.},
-	  journal={The Cosmopolitanism Reader},
-	  pages={229},
-	  year={2005},
-	  publisher={Polity Pr}
-	}

@@ -1,23 +1,21 @@
----	
-bibtex:	@book{dahl1970after,
-				  title={After the revolution?: authority in a good society},
-				  author={Dahl, R.A.},
-				  lccn={72024278},
-				  series={Yale fastback},
-				  url={http://books.google.com.au/books?id=5ENQAQAAIAAJ},
-				  year={1970},
-				  publisher={Yale University Press}
-				}
+---  
+bibtex:  @book{dahl1970after,
+          title={After the revolution?: authority in a good society},
+          author={Dahl, R.A.},
+          lccn={72024278},
+          series={Yale fastback},
+          url={http://books.google.com.au/books?id=5ENQAQAAIAAJ},
+          year={1970},
+          publisher={Yale University Press}
+        }
 ---
-				
-After the Revolution
-====================
+        
+# After the Revolution
 
-Robert Dahl 1970
+### Robert Dahl 1970
 
 
-Part 1
-------
+## Part 1
 
 Dahl outlines his 3 criteria for authority:
 
@@ -47,24 +45,37 @@ It is only reasonable to participate in decision making when that activity is a 
 
 Simple mathematics prevents any form of participatory democracy in large associations (p55).  Representative democracy is a good compromise between the ideal and economy
 
-Part 2
-------
 
-Who should participate in the government of a democratic association (p60 ) is a curiously neglected and yet absolutely crucial problem (p59) where there is no theoretical solution to the puzzle, only pragmatic ones (p59)
+## Part 2
 
-Principle of Affected Interests is typically offered as a solution and is verily likely the best general principle of inclusion that you are likely to find:
+Who should "participate in the government of a democratic association" (p60 ) is "a curiously neglected and yet absolutely crucial problem" (p59) where there is "no theoretical solution to the puzzle, only pragmatic ones" (p59)
 
-	"Everyone who is affected by the decisions of a government should have the right to participate in that government" p64
+  - if democracy means rule by the people, then we need to clarify what we mean by rule and by people
+  - how we define the _people_ automatically determines the way in which they can _rule_
+  - and how we define _rule_ necessarily sets bounds on how we define _people_
 
-But what affects my interest depends on subjective factors (p66) which leads to global government and clashes with the criterion of economy.  It does at least provide a prima facie case for those affected.
+This is distinct from suffrage - which citizens among the people should be permitted to participate.
+
+It is "a problem almost totally neglected by all the great political philosophers who write about democracy" p60
+
+"Succession is an effort to reconstitute the people into two peoples" p61  "More often than not these debates are settled by force and ratified by history: the philosophers take up where history leaves off" p62
+
+"Democracy cannot be a single form of authority but a multiplicity of forms." p63
+
+Principle of Affected Interests is typically offered as a solution and "is very likely the best general principle of inclusion that you are likely to find":
+
+> "Everyone who is affected by the decisions of a government should have the right to participate in that government" p64
+
+
+But what affects my interest depends on subjective factors (p66) which leads to global government and clashes with the criterion of economy.  It does at least provide a prima facie case for those affected.  Alternatively, it requires a different association for every set of affected people.
 
 Dahl also characterised various forms of democracy: (p69)
 
-- primary (town meeting)
-- committee
-- referendum
-- representative
-- delegated authority
+  - primary (town meeting)
+  - committee
+  - referendum
+  - representative
+  - delegated authority
 
 Political parties lead to adversarial politics whereas committees lead to consensual democracy (p75).
 
@@ -80,8 +91,7 @@ Dahl's maxims of jurisdictions (p102):
 - Autonomous decision making is often a viable alternative to association.
  
 
-Part 3
-------
+## Part 3
 
 Polyarchy suffers from an irreparable flaw - the remoteness of the government from the citizen who participates very little in many of the decisions that have crucial importance in his life (p142)
 

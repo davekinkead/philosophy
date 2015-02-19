@@ -1,3 +1,18 @@
+---
+bibtex: @article{miller2009democracy,
+  title={Democracy's domain},
+  author={Miller, David},
+  journal={Philosophy \& public affairs},
+  volume={37},
+  number={3},
+  pages={201--228},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+---
+
+# Democracy's domain
+
 Miller defines the problem as "who should be included in the _demos_,  or constituency when democratic decisions are taken" p201 or "how should the political units within which democracy will be practiced be constituted?" p202
 
 It is a question primarily about people rather than territory and is driven by three primary concerns: p202  

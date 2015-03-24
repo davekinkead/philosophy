@@ -10,7 +10,7 @@ bibtex: @article{gaus1996justificatory,
 
 ### Jerry Gaus
 
-Liberalism based on public reason requires a _normative theory of justification_ - a way to say that even though the contents of certain claims are in dispute, the claims them selves are justified.
+Liberalism based on public reason requires a _normative theory of justification_ - a way to say that even though the contents of certain claims are in dispute, the claims themselves are justified.
 
 If public justification is the core of liberalism, and there is no such thing as an undisputed theory of justification, then liberalism must clarify its conception of justified belief. p4
 
@@ -42,4 +42,10 @@ Justified beliefs have sustaining causes for accepting the reasons of the belief
 
 "To restrict reasons in inferential justification to belief states would be to rule out a priori, that feelings can be grounding reasons for beliefs." p29
 
+That beliefs are caused by other beliefs does not make them justified. It is reasons that are justificatory. p30
 
+Justifications might be _open_ or _closed_.  An open justification is one which is stable in the face of acute and sustained criticism form others with new information. p31
+
+"Facts become reasons when they enter into cognitive systems with inferential norms and are bale to justify acceptance of a belief." p35
+
+"Inferential rules specify rational connections between beliefs; if inferential reasoning (which is causal) is to be rational, it must conform to these inferential rules." p47

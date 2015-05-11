@@ -1,5 +1,5 @@
 ---
-Bibtex:	@article{rorty1996idealizations,
+bibtex:	@article{rorty1996idealizations,
 				  title={Idealizations, foundations, and social practices},
 				  author={Rorty, R.},
 				  journal={Democracy and Difference},
@@ -9,10 +9,14 @@ Bibtex:	@article{rorty1996idealizations,
 				}
 ---
 
-Idealizations, Foundations, and Social Practices
-================================================
+# Idealizations, Foundations, and Social Practices
+
 
 Rorty argues for anti-foundationalism in democratic theory.  He points to a distinction between idealisations of practices and foundations for those practices (p333).  Political debate, at its most abstract, is debate about competing idealisations.
+
+Idealisations ask "how do we make our current practices more coherent?". They offer a utopian vision and seeks to adjust current practice towards it.
+
+Foundationalists ask "should we do this at all?". They require that we adjust our current practices to render them coherent with some prior principle.
 
 To be anti foundational about a practice is to claim that criticisms of it be confined to comparisons with other actual or possible practices.  To be foundational is to claim a practice can be grounded on matters outside or prior to its practice (p333).
 

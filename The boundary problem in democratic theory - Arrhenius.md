@@ -1,5 +1,5 @@
 ---
-bibtex: @article{arrhenius2005boundary,
+bibtex: @article{arrhenius2005,
   title={The boundary problem in democratic theory},
   author={Arrhenius, Gustaf},
   journal={Democracy Unbound: Basic Explorations I},

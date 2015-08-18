@@ -1,5 +1,5 @@
 ---
-bibtex: @article {erman2014,
+bibtex: @article{erman2014,
 author = {Erman, Eva},
 title = {The Boundary Problem and the Ideal of Democracy},
 journal = {Constellations},

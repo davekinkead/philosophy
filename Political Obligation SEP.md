@@ -55,6 +55,7 @@ One can be bound to the law but not have political obligations.
 **Anarchist Challenges**
 
 A priori arguments hold that no political obligation to obey the law *can* exist as this violates autonomy
+
 A posteriori arguments hold that no political obligation to obey the law *has* existed.
 
 

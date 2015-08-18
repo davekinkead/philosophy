@@ -1,5 +1,5 @@
 ---
-bibtex: @book{dahl1989democracy,
+bibtex: @book{dahl1989,
   title={Democracy and its Critics},
   author={Dahl, Robert Alan},
   year={1989},

@@ -1,5 +1,5 @@
 ---
-bibtex: @article{bergstrom2007democracy,
+bibtex: @article{bergstrom2007,
   title={Democracy and political boundaries},
   author={Bergstr{\"o}m, Lars},
   journal={The Viability and desirability of global democracy, Stockholm Studies in Democratic Theory},

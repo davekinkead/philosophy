@@ -1,5 +1,5 @@
 ---
-bibtex: @article{schaffer2012boundaries,
+bibtex: @article{schaffer2012,
   title={The boundaries of transnational democracy: alternatives to the all-affected principle},
   author={Schaffer, Johan Karlsson},
   journal={Review of International Studies},

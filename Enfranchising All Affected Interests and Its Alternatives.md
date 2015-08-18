@@ -1,5 +1,5 @@
 ---
-bibtex: @article{goodin2007enfranchising,
+bibtex: @article{goodin2007,
 				  title={Enfranchising all affected interests, and its alternatives},
 				  author={Goodin, R.E.},
 				  journal={Philosophy \& public affairs},

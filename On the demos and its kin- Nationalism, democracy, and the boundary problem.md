@@ -1,5 +1,5 @@
 ---
-bibtex: @article{abizadeh2012demos,
+bibtex: @article{abizadeh2012,
   title={On the demos and its kin: Nationalism, democracy, and the boundary problem},
   author={Abizadeh, Arash},
   journal={American Political Science Review},

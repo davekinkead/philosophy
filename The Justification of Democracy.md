@@ -21,9 +21,11 @@ bibtex: @article{1971,
 
 # The Justification of Democracy
 
+## Carl Cohen 1971
+
 "By "democracy" I mean that form of community government in which themembers of a community may participate equally in making directive decisions which concern them all." p1
 
-Democracy may be justified and vindicated. Vindication means showing that certain desirable states of affairs are a probable consequent of it. "Justifica tion consists in a demonstration of its rightness, based upon some principle or principles whose truth is evident or universally accepted." 
+Democracy may be justified and vindicated. Vindication means showing that certain desirable states of affairs are a probable consequent of it. "Justification consists in a demonstration of its rightness, based upon some principle or principles whose truth is evident or universally accepted." 
 
 The "contrast between vindication and justification, then, is one between arguments prospectively and retrospectively oriented."  Vindication is empiric, justification theoretic.
 

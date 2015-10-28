@@ -71,4 +71,23 @@ Tom's view is "society is properly responsive to the appeals of citizens when it
 
 3 _facts of judgement_ support this claim: (p205)
 
+  1. The fallibility of moral judgement is pervasive, even when confined to the parameters set by a principle of equality.
+
+  2. Facts connect individuals’ judgements to their interests.
+
+  3. There are facts linking the right to appeal and the interests of each individual.
+
+Justice demands that "society must publicly express the equal consideration of interests in a way that can be clear in principle to its members." --p208
+
+> Democratic decision making is a generally necessary condition for satisfying this principle in a public way. --p208
+
+A possible argument against liberalism and anarchism:
+
+> Political societies are marked by deep disagreements about what is fair and just. These disagreements relate to the overall structure of society so that all are inter- dependently affected by the resolutions to these disagreements. Hence, they cannot be resolved merely by permitting each to go his or her way, or in other words, by means of liberal rights and toleration. --p208
+
+> The equal consideration of the interests can be clearly expressed to all citizens only by making collective decisions about the common social world in an egalitarian way.
+
+But not everyone will be satisfied with democracy:
+
+> The point is that democracy is the only way that the principle of weak publicity can be satisfied at all. This is what makes democracy a uniquely just solution to political conflict and disagreement. --p209
 

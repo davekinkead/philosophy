@@ -88,3 +88,4 @@ The Doctrinal Paradox
 > Although each individual judge respects the relevant legal doctrine, there is a majority for p, a majority for q, and yet a majority against r—in breach of legal doctrine.
 
 This leads to logical inconsistences when p & q -> r
+

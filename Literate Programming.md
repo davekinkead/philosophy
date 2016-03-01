@@ -10,7 +10,7 @@ bibtex: @article{knuth1992,
 
 > One of life's greatest pleasures can be the composition of a computer program that you know will be a pleasure for other people to read, and for yourself to read. p ix
 
-> Programming is best regarded as the process of creating works _works of literature_.
+> Programming is best regarded as the process of creating _works of literature_.
 
 > All of the major problems associated with computer programming - issues of reliability, portability learnability, maintainability, and efficiency - are ameliorated when programs and their dialogues with users become more literate.
 

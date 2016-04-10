@@ -37,9 +37,11 @@ On the symetrical implication of CJT
 
 > the question of whether voters are on average better than random is not easily decidable when approached head-on. p133
 
+> The CJT uses the law of large numbers to pass from assumptions about pc (voter competence) to conclusions about Vc (the share of the vote won by the correct outcome). Here we propose to work in the reverse direction, deriving inferences about voter competence (pc) from the actual distributions of votes (Vi).
+
 Assumtions of uniformity
 
-> The CJT typically works with simplifying assumptions of uniform voter compe- tence in two dimensions. First, it is typically assumed that each voter is as com- petent as each other voter; and second, these discussions typically proceed as if voters were equally competent across all subjects. Neither assumption is strictly necessary. p135
+> The CJT typically works with simplifying assumptions of uniform voter competence in two dimensions. First, it is typically assumed that each voter is as competent as each other voter; and second, these discussions typically proceed as if voters were equally competent across all subjects. Neither assumption is strictly necessary. p135
 
 > Voters need not have identical competence; the CJT can be re-proven using the mean competence of voters of varying competence, just so long as the distribution of voter competences is symmetrical around the mean.
 
@@ -51,8 +53,17 @@ Voter competence cannot be uniformly distributed.
 
 Footnote on the Principle of Charity:
 
+> Some might suppose that, as a sort of extension and generalization of the ‘prin- ciple of charity’, we ought (unless we have some special story to tell about how this case is unusual) ordinarily suppose that our fellow citizens are more likely to be right than wrong, and therefore that the winning outcome is quite probably the correct one. p136
+
 > The ‘principle of charity’ is explicitly appealed to as grounds for trusting the testimony of others, in different fashions, by both C.A.J. Coady, Testimony (Oxford: Clarendon Press, 1992), Ch. 9 and Tyler Burge, ‘Content Preservation’, Philosophical Review 102 (1993): 457–488, p. 487. Note that, however similar in spirit, this cannot be literally the same ‘principle of charity’ as Davidson’s, as shown by Gary Ebbs, ‘Learning from Others’, Nous 36 (2002): 525–549.
 
 Large majorities can indicate lack of independence
 
-> But looking at the proportional breakdown of the vote, and asking ourselves whether that is more plausibly a reflection of voter compe- tence or voter interests and biases, is a useful supplement to the ordinary battery of bias-detectors.
+> But looking at the proportional breakdown of the vote, and asking ourselves whether that is more plausibly a reflection of voter competence or voter interests and biases, is a useful supplement to the ordinary battery of bias-detectors.
+
+
+Conclusion
+
+> in the standard CJT we only have to decide whether or not voters on average are more likely to be right than random. If they are, and the other assumptions of the CJT are met, then the verdict of a large electorate is epistemically compelling; if they are not, then their verdict is almost certain to be epistemically in error. p140
+
+> It is an unpleasantly counter-intuitive feature of the CJT, as ordinarily construed, that a 51:49 majority is very, very nearly as likely to be correct as is the majority in a 70:30 landslide, just so long as the electorate is large. 

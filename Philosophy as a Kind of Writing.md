@@ -1,3 +1,13 @@
+@article{rorty1978philosophy,
+  title={Philosophy as a kind of writing: An essay on Derrida},
+  author={Rorty, Richard},
+  journal={New Literary History},
+  volume={10},
+  number={1},
+  pages={141--160},
+  year={1978},
+  publisher={JSTOR}
+}
 
 
 # Philosophy as a Kind of Writing: An Essay on Derrida

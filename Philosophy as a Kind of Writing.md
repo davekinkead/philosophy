@@ -12,7 +12,7 @@
 
 # Philosophy as a Kind of Writing: An Essay on Derrida
 
-## Richard Routy
+## Richard Rorty
 
 Thesis: Conti philosophers like Derrida aren't connected to their predecessors by any identifiable method but via _family resemblance_ in a continuing dialogue.  They reject the idea that there is a final truth to be discovered.
 

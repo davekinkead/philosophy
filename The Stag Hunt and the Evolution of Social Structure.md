@@ -7,7 +7,7 @@ bibtex: @book{skyrms2004stag,
 }
 ---
 
-Skrymms uses agent based modelling to explore the issue of how a social contract can be formed - "How can you get from the non-cooperative hare hunting equilibrium to the cooperative stag hunting equilibrium".
+Skryms uses agent based modelling to explore the issue of how a social contract can be formed - "How can you get from the non-cooperative hare hunting equilibrium to the cooperative stag hunting equilibrium".
 
 Over time, there is some low level experimentation with stag hunting. Eventually enough stag hunters interact with each other and a local culture of stag hunting spreads by imitation and reproduction.  Once large enough, the stag hunting culture can be maintained even in hostile environments thanks to signalling.
 

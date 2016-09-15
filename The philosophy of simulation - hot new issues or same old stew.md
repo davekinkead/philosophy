@@ -15,7 +15,7 @@ bibtex: @article{frigg2009philosophy,
 
 ## Frigg & Reiss 2009
 
-> We argue that these claims are overblown and that simulations, far from demanding a new metaphysics, epistemology, seman- tics and methodology, raise few if any new philosophical problems. p593
+> We argue that these claims are overblown and that simulations, far from demanding a new metaphysics, epistemology, semantics and methodology, raise few if any new philosophical problems. p593
 
 Frigg & Riess examine and reject a number of claims made by proponents regarding the novelty of computer simulations in science.  
 
@@ -35,7 +35,7 @@ Their claims is that while simulations offer something new to science, they don'
 
 "Computer simulations extend the class of tractable mathematics and thereby broaden the range of modelling tools that we can use." p594
 
-"...computational techniques ‘constitutes a signifi- cant and permanent addition to the methods of science..." p594
+"...computational techniques ‘constitutes a significant and permanent addition to the methods of science..." p594
 
 "...transform theoretical structures into specific concrete knowledge of physical systems..." p594
 

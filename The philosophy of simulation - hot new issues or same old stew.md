@@ -1,5 +1,5 @@
 ---
-bibtex: @article{frigg2009philosophy,
+bibtex: @article{frigg2009,
   title={The philosophy of simulation: hot new issues or same old stew?},
   author={Frigg, Roman and Reiss, Julian},
   journal={Synthese},

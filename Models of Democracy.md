@@ -497,9 +497,9 @@ Republicanism | Liberalism | Marxism p268
 
   2. Liberty requires self-governing participatory polity (R), separation of state & society (L), restructuring of society (M)
 
-  3. Freedom and politics are linked (R), freedom requires an impartial state (L), an impartial state can only exist when it is dependent on capitalism (M)
+  3. Freedom and politics are linked (R), freedom requires an impartial state (L), an impartial state can only exist when it isn't dependent on capitalism (M)
 
-  4. The common good requires each fulfilling their ends mediated by the state (R), decisions are best left to marks (L), public direction of resources (M).
+  4. The common good requires each fulfilling their ends mediated by the state (R), decisions are best left to marketss (L), public direction of resources (M).
 
 "Politics is about power" p270
 

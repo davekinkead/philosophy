@@ -16,6 +16,10 @@ bibtex: @incollection{knight1997sort,
 
 Democracy means rule of the people where the people are characterised by divergent material interests, cultural attachments, and ethical commitments. p279
 
+Democracies involve a people who are heterogenous across multiple dimensions.  Democracy requires uncertainty - there is an assumption that decisions are not forgone conclusions - the preferences of citizens have some connection with formal outcomes.
+
+Deliberative democracy requires an equality of access to political opportunities - both procedural and substantive. p280
+
 Democracy must be "open to participation and where, from the perspectives of participants, outcomes are not known ex ante." 
 
 These interests mustn't be privileged one way or the other.  No single group should be able to dictate outcomes unilaterally.

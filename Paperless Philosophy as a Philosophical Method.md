@@ -13,7 +13,7 @@
 
 ## David Bourget
 
-> I discuss the prospects for new forms of professional communication in philosophy. I argue that online discussions and online surveys ought to play a more important role in commu- nications between philosophers than they play today. However, there are major obstacles to the widespread adoption of these media as channels of communication between academics. I offer an overview of these obstacles and sketch a strategy for surmounting them. The strat- egy I propose involves the development of a new kind of service which could expand the reach of the analytic method in philosophy.
+> I discuss the prospects for new forms of professional communication in philosophy. I argue that online discussions and online surveys ought to play a more important role in commu- nications between philosophers than they play today. However, there are major obstacles to the widespread adoption of these media as channels of communication between academics. I offer an overview of these obstacles and sketch a strategy for surmounting them. The strategy I propose involves the development of a new kind of service which could expand the reach of the analytic method in philosophy.
 
 @bourget2010 looks at how digital methods can advance philosophy.
 

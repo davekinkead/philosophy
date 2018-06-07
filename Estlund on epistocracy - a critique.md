@@ -33,3 +33,5 @@ Estlund rejects premise 3 as an example of the expert/boss fallacy
 
 > The general acceptability criterion: “(N)o one has authority or legitimate coercive power over another without a justification that could be accepted by all qualified points of view” (Estlund 2008, p. 33).
 
+> appeals to the general acceptability criterion are not as effective in blocking the epistocratic argument as Estlund wants them to be. p17
+

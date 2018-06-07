@@ -53,7 +53,7 @@ Voter competence cannot be uniformly distributed.
 
 Footnote on the Principle of Charity:
 
-> Some might suppose that, as a sort of extension and generalization of the ‘prin- ciple of charity’, we ought (unless we have some special story to tell about how this case is unusual) ordinarily suppose that our fellow citizens are more likely to be right than wrong, and therefore that the winning outcome is quite probably the correct one. p136
+> Some might suppose that, as a sort of extension and generalization of the ‘principle of charity’, we ought (unless we have some special story to tell about how this case is unusual) ordinarily suppose that our fellow citizens are more likely to be right than wrong, and therefore that the winning outcome is quite probably the correct one. p136
 
 > The ‘principle of charity’ is explicitly appealed to as grounds for trusting the testimony of others, in different fashions, by both C.A.J. Coady, Testimony (Oxford: Clarendon Press, 1992), Ch. 9 and Tyler Burge, ‘Content Preservation’, Philosophical Review 102 (1993): 457–488, p. 487. Note that, however similar in spirit, this cannot be literally the same ‘principle of charity’ as Davidson’s, as shown by Gary Ebbs, ‘Learning from Others’, Nous 36 (2002): 525–549.
 

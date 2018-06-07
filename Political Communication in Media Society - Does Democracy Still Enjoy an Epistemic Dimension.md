@@ -29,9 +29,9 @@ Institutional design of modern democracies brings together three elements:
 
 Difference conceptions of democracy (liberal, republican, deliberative) prioritise different elements.
 
-> The deliberative model is inter- ested more in the epistemic function of discourse and negotiation than in rational choice or political ethos. p413
+> The deliberative model is interested more in the epistemic function of discourse and negotiation than in rational choice or political ethos. p413
 
-> The deliberative paradigm offers as its main empirical point of reference a demo- cratic process, which is supposed to generate legitimacy through a procedure of opinion and will formation that grants (a) publicity and transparency for the delib- erative process, (b) inclusion and equal opportunity for participation, and (c) a justi- fied presumption for reasonable outcomes (mainly in view of the impact of arguments on rational changes in preference) (Bohman, 1996; Bohman & Rehg, 1997).
+> The deliberative paradigm offers as its main empirical point of reference a democratic process, which is supposed to generate legitimacy through a procedure of opinion and will formation that grants (a) publicity and transparency for the delib- erative process, (b) inclusion and equal opportunity for participation, and (c) a justi- fied presumption for reasonable outcomes (mainly in view of the impact of arguments on rational changes in preference) (Bohman, 1996; Bohman & Rehg, 1997).
 
 > The presumption of reasonable outcomes rests in turn on the assumption that institutionalized discourses mobilize relevant topics and claims, promote the critical evaluation of contributions, and lead to rationally motivated yes or no reactions. p413
 

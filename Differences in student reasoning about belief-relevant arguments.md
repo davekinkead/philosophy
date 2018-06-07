@@ -1,5 +1,14 @@
 ---
-
+bibtex: @article{mccrudden2016differences,
+  title={Differences in student reasoning about belief-relevant arguments: a mixed methods study},
+  author={McCrudden, Matthew T and Barnes, Ashleigh},
+  journal={Metacognition and Learning},
+  volume={11},
+  number={3},
+  pages={275--303},
+  year={2016},
+  publisher={Springer}
+}
 ---
 
 # Differences in student reasoning about belief-relevant arguments: a mixed methods study

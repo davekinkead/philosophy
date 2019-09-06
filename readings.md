@@ -6,31 +6,17 @@ A long list makes for a sad panda :(
   
   - Aristotle, METAPHYSICS, PHYSICS, NICHOMACHEAN ETHICS. 
 
-  - Descartes, DISCOURSE ON METHOD and MEDITATIONS.  
-
   - Leibniz, MONADOLOGY
 
   - Spinoza, ETHICS.
 
-  - Thomas Hobbes, LEVIATHAN
-
-  - John Locke, ESSAY CONCERNING THE HUMAN UNDERSTANDING, SECOND TREATISE ON CIVIL GOVERNMENT
-
   - George Berkeley, either A TREATISE CONCERNING THE PRINCIPLES OF HUMAN KNOWLEDGE
 
-  - David Hume, A TREATISE OF HUMAN KNOWLEDGE, ENQUIRY CONCERNING THE HUMAN UNDERSTANDING, and - DIALOGUES CONCERNING NATURAL RELIGION.
-
-  - Jean-Jacques Rousseau, OF THE SOCIAL CONTRACT.
 
   - Immanuel Kant, CRITIQUE OF PURE REASON, FOUNDATIONS OF THE METAPHYSICS OF MORALS, CRITIQUE OF - JUDGMENT
 
-  - Jeremy Bentham, INTRODUCTION TO THE PRINCIPLES OF MORALS AND LEGISLATION
-
-  - John Stuart Mill, UTILITARIANISM, ON LIBERTY
 
   - Bentham, "The Psychology of Economic Man" - Apr (Shapiro CH3)
-
-  - Tucker, The Marx-Engels Reader, Manifesto of the Communist Party, pp. 469-500.
 
   - Tucker, The Marx-Engels Reader, “Theses on Feuerbach,” pp. 143-5
 
@@ -47,8 +33,6 @@ A long list makes for a sad panda :(
   - Roemer, "Should Marxists be interested in exploitation?"
 
   - Nozick, Anarchy, State, and Utopia, - July
-
-  - Rawls, A Theory of Justice - August (Shapiro CH5)
 
   - Rawls, "Justice as fairness: political not metaphysical" - Aug
 

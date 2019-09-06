@@ -1,14 +1,14 @@
 ---
 bibtex: @book{shapiro2003moral,
-		  title={The moral foundations of politics},
-		  author={Shapiro, I.},
-		  isbn={9780300079074},
-		  lccn={2003276735},
-		  series={The Yale ISPS series},
-		  url={http://books.google.com.au/books?id=Nq7hdox\_4HQC},
-		  year={2003},
-		  publisher={Yale University Press}
-		}
+      title={The moral foundations of politics},
+      author={Shapiro, I.},
+      isbn={9780300079074},
+      lccn={2003276735},
+      series={The Yale ISPS series},
+      url={http://books.google.com.au/books?id=Nq7hdox\_4HQC},
+      year={2003},
+      publisher={Yale University Press}
+    }
 ---
 
 

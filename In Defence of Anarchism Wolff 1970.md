@@ -16,7 +16,7 @@ Authority is *de jure* when there is a legitimate source to the obligation to ob
 
 Obedience is not a matter of doing what someone tells you to do. It is a matter of doing what he tells you to do *because he tells you to do it*. p9
 
-	There might be many good reasons to obey the edicts of the state - the command to act could coincide with one's desire to act in that matter or the command could have independently moral obligation to act - but a state only has du jury authority if you ought follow its edicts merely because it issued them.
+  There might be many good reasons to obey the edicts of the state - the command to act could coincide with one's desire to act in that matter or the command could have independently moral obligation to act - but a state only has du jury authority if you ought follow its edicts merely because it issued them.
 
 
 
@@ -39,11 +39,11 @@ For the autonomous man, there is no such thing as a command. Compliance with a c
 
 The moral condition demands that we acknowledge responsibility and achieve autonomy wherever and whenever possible. p17
 
-	The defining mark of the state is authority, the right to rule.
+  The defining mark of the state is authority, the right to rule.
 
-	The primary obligation of man is autonomy, the refusal to be ruled.
+  The primary obligation of man is autonomy, the refusal to be ruled.
 
-	If all men have a continuing obligation to achieve the highest degree of autonomy possible, then there would appear to be no state whose subjects have a moral obligation to obey its commands. p18-19
+  If all men have a continuing obligation to achieve the highest degree of autonomy possible, then there would appear to be no state whose subjects have a moral obligation to obey its commands. p18-19
 
 
 
@@ -52,7 +52,7 @@ The Solution of Classical Democracy
 
 The classic solution offers democracy as a freedom maximiser for all:
 
-	Men cannot be free so long as they are subject to the will of others.  But if men rule themselves, if they are both law-givers and law-obeyers, then they can combine the benefits of government with the blessings of others. p21-22
+  Men cannot be free so long as they are subject to the will of others.  But if men rule themselves, if they are both law-givers and law-obeyers, then they can combine the benefits of government with the blessings of others. p21-22
 
 Unanimous direct democracy offers a solution to the conflict between autonomy and authority but its actualisation requires the imposition of impossibly restrictive conditions. p22
 
@@ -83,9 +83,9 @@ Beyond the Legitimate State
 
 
 
-	@book{wolff1970defense,
-	  title={In defense of anarchism},
-	  author={Wolff, R.P.},
-	  year={1970},
-	  publisher={Univ of California Pr}
-	}
+  @book{wolff1970defense,
+    title={In defense of anarchism},
+    author={Wolff, R.P.},
+    year={1970},
+    publisher={Univ of California Pr}
+  }

@@ -1,13 +1,13 @@
-bibtex:	@article{mole2012three,
-				  title={Three Philosophical Lessons for the Analysis of Criminal and Military Intelligence},
-				  author={Mole, C.},
-				  journal={Intelligence and National Security},
-				  volume={27},
-				  number={4},
-				  pages={441--458},
-				  year={2012},
-				  publisher={Taylor \& Francis}
-				}
+bibtex:  @article{mole2012three,
+          title={Three Philosophical Lessons for the Analysis of Criminal and Military Intelligence},
+          author={Mole, C.},
+          journal={Intelligence and National Security},
+          volume={27},
+          number={4},
+          pages={441--458},
+          year={2012},
+          publisher={Taylor \& Francis}
+        }
 ---
 
 # Three Philosophical Lessons for the Analysis of Criminal and Military Intelligence

@@ -17,13 +17,13 @@ Furthermore, hypothetical imperatives are not all the result of selfishness, ego
 
 **bibtex**
 
-	@article{foot1972morality,
-	  title={Morality as a system of hypothetical imperatives},
-	  author={Foot, P.},
-	  journal={The Philosophical Review},
-	  volume={81},
-	  number={3},
-	  pages={305--316},
-	  year={1972},
-	  publisher={JSTOR}
-	}
+  @article{foot1972morality,
+    title={Morality as a system of hypothetical imperatives},
+    author={Foot, P.},
+    journal={The Philosophical Review},
+    volume={81},
+    number={3},
+    pages={305--316},
+    year={1972},
+    publisher={JSTOR}
+  }

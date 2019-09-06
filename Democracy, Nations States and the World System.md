@@ -47,11 +47,11 @@ The more the origins of an organisation recede into the background and its autho
 
 Bibtex
 
-	@article{burnheim1986democracy,
-	  title={Democracy, nation states and the world system},
-	  author={Burnheim, J.},
-	  journal={New forms of democracy},
-	  pages={218--239},
-	  year={1986},
-	  publisher={UK: Sage in Assoc. with Open University}
-	}
+  @article{burnheim1986democracy,
+    title={Democracy, nation states and the world system},
+    author={Burnheim, J.},
+    journal={New forms of democracy},
+    pages={218--239},
+    year={1986},
+    publisher={UK: Sage in Assoc. with Open University}
+  }

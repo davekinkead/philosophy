@@ -16,4 +16,4 @@ bibtex: @article{ingham2013disagreement,
 "There are other strategies for justifying deliberative democratic procedures that can be deployed alongside or instead of epistemic justifications." p138
 
 
-Epsitemic accounts: 	 Anderson (2006), Estlund (2008), Fuerstein (2008), Goodin (2003), Goodin and List (2001), Landemore (2012), Mart ́ı (2006), Misak (2008), Nelson (2008), Nino (1996), Ober (2008), Pettit and List (2011), Talisse (2009), and Vermeule (2009), among others. See also Landemore and Elster (2012).
+Epsitemic accounts:    Anderson (2006), Estlund (2008), Fuerstein (2008), Goodin (2003), Goodin and List (2001), Landemore (2012), Mart ́ı (2006), Misak (2008), Nelson (2008), Nino (1996), Ober (2008), Pettit and List (2011), Talisse (2009), and Vermeule (2009), among others. See also Landemore and Elster (2012).

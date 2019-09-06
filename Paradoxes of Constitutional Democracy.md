@@ -1,14 +1,14 @@
 ---
-bibtex:	@article{olson2007paradoxes,
-				  title={Paradoxes of constitutional democracy},
-				  author={Olson, K.},
-				  journal={American Journal of Political Science},
-				  volume={51},
-				  number={2},
-				  pages={330--343},
-				  year={2007},
-				  publisher={Wiley Online Library}
-				}
+bibtex:  @article{olson2007paradoxes,
+          title={Paradoxes of constitutional democracy},
+          author={Olson, K.},
+          journal={American Journal of Political Science},
+          volume={51},
+          number={2},
+          pages={330--343},
+          year={2007},
+          publisher={Wiley Online Library}
+        }
 ---
 # Paradoxes of Constitutional Democracy
 

@@ -1,12 +1,12 @@
 ---
 bibtex: @article{isakhan2012so,
-				  title={What is so'primitive'about'primitive democracy'? Comparing the ancient Middle East and classical Athens},
-				  author={Isakhan, B.},
-				  journal={The secret history of democracy},
-				  pages={19--34},
-				  year={2012},
-				  publisher={Palgrave Macmillan}
-				}
+          title={What is so'primitive'about'primitive democracy'? Comparing the ancient Middle East and classical Athens},
+          author={Isakhan, B.},
+          journal={The secret history of democracy},
+          pages={19--34},
+          year={2012},
+          publisher={Palgrave Macmillan}
+        }
 ---
 # What is so ‘Primitive’ about ‘Primitive Democracy’? 
 ## Comparing the Ancient Middle East and Classical Athens

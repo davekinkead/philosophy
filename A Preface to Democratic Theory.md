@@ -1,10 +1,10 @@
 ---
 bibtex: @book{dahl2006preface,
-				  title={A preface to democratic theory},
-				  author={Dahl, Robert A},
-				  year={2006},
-				  publisher={University of Chicago Press}
-				}
+          title={A preface to democratic theory},
+          author={Dahl, Robert A},
+          year={2006},
+          publisher={University of Chicago Press}
+        }
 ---
 
 **Dahl, R (1956) Polyarchal Democracy in A Preface to Democratic Theory, University of Chicago Press, Chicago.**

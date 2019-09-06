@@ -27,11 +27,11 @@ Open in this sense seems to refer to benefits that are largely unenclosable (i.e
 
 
 Bibtex
-	@article{simmons1979principle,
-	  title={The principle of fair play},
-	  author={Simmons, A.J.},
-	  journal={Philosophy \& Public Affairs},
-	  pages={307--337},
-	  year={1979},
-	  publisher={JSTOR}
-	}
+  @article{simmons1979principle,
+    title={The principle of fair play},
+    author={Simmons, A.J.},
+    journal={Philosophy \& Public Affairs},
+    pages={307--337},
+    year={1979},
+    publisher={JSTOR}
+  }

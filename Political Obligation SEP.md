@@ -67,11 +67,11 @@ Objections are that it "is not that consent cannot be a source of obligations, f
 
 **Gratitude**
 
-1.	The person who benefits from X has an obligation of gratitude not to act contrary to X's interests.
-2.	Every citizen has received benefits from the state.
-3.	Every citizen has an obligation of gratitude not to act in ways that are contrary to the state's interests.
-4.	Noncompliance with the law is contrary to the state's interests.
-5.	Every citizen has an obligation of gratitude to comply with the law.
+1.  The person who benefits from X has an obligation of gratitude not to act contrary to X's interests.
+2.  Every citizen has received benefits from the state.
+3.  Every citizen has an obligation of gratitude not to act in ways that are contrary to the state's interests.
+4.  Noncompliance with the law is contrary to the state's interests.
+5.  Every citizen has an obligation of gratitude to comply with the law.
 
 **Fair Play**
 
@@ -87,12 +87,12 @@ One may not have an obligation to obey the law (as obligations require voluntary
 
 
 Bibtex
-	@InCollection{sep-political-obligation,
-		author       =	{Dagger, Richard},
-		title        =	{Political Obligation},
-		booktitle    =	{The Stanford Encyclopedia of Philosophy},
-		editor       =	{Edward N. Zalta},
-		howpublished =	{\url{http://plato.stanford.edu/archives/sum2010/entries/political-obligation/}},
-		year         =	{2010},
-		edition      =	{Summer 2010},
-	}
+  @InCollection{sep-political-obligation,
+    author       =  {Dagger, Richard},
+    title        =  {Political Obligation},
+    booktitle    =  {The Stanford Encyclopedia of Philosophy},
+    editor       =  {Edward N. Zalta},
+    howpublished =  {\url{http://plato.stanford.edu/archives/sum2010/entries/political-obligation/}},
+    year         =  {2010},
+    edition      =  {Summer 2010},
+  }

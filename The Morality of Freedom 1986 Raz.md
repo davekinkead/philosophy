@@ -18,9 +18,9 @@ The pre-emptive thesis only follows from the dependency thesis if the authoritat
 
 
 Bibtex
-	@book{raz1986morality,
-	  title={The morality of freedom},
-	  author={Raz, J.},
-	  year={1986},
-	  publisher={Clarendon Press}
-	}
+  @book{raz1986morality,
+    title={The morality of freedom},
+    author={Raz, J.},
+    year={1986},
+    publisher={Clarendon Press}
+  }

@@ -1,12 +1,12 @@
 ---
-bibtex:	@article{simmons1976tacit,
-				  title={Tacit consent and political obligation},
-				  author={Simmons, A.J.},
-				  journal={Philosophy \& Public Affairs},
-				  pages={274--291},
-				  year={1976},
-				  publisher={JSTOR}
-				}
+bibtex:  @article{simmons1976tacit,
+          title={Tacit consent and political obligation},
+          author={Simmons, A.J.},
+          journal={Philosophy \& Public Affairs},
+          pages={274--291},
+          year={1976},
+          publisher={JSTOR}
+        }
 ---
 
 Tacit Consent and Political Obligation

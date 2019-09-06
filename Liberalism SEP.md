@@ -13,7 +13,7 @@ Fundamental Liberal Principle (Gaus, 1996: 162-166): freedom is normatively basi
 Liberty can be viewed as _negative_:
 
   Coercion implies the deliberate interference of other human beings within the area in which I could otherwise act....I am normally said to be free to the degree to which no man or body of men interferes with my activity. (Berlin, 1969: 122)
-	
+  
 A contrasting account is _positive_ liberty.  A person is free only if she is self-directed or autonomous.  Uncontrollable impulse or craving make one a slave "in the condition of a bondsman who is carrying out the will of another, not his own’ (Green 1986 [1895]: 228).
 
 An alternative conception is _republican_ liberty: The _libre_ of liberty is the antonym of _servus_ or slave.  An agent is only said to be unfree if she is ‘subject to the potentially capricious will or the potentially idiosyncratic judgement of another’ (Pettit, 1997: 5).

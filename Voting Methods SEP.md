@@ -3,8 +3,8 @@ Voting Methods in SEP
 Eric Pacuit
 
 The central question addressed is 
-	
-	Given a group of people faced with some decision, how should a central authority combine the individual opinions so as to best reflect the “will of the group”?
+  
+  Given a group of people faced with some decision, how should a central authority combine the individual opinions so as to best reflect the “will of the group”?
 
 But this presupposes that voting on the issue is the best course of action or even justified.
 
@@ -93,12 +93,12 @@ Regenwetter et al. 2006 - many of the usual voting methods that are considered i
 
 Bibtex
 
-	@InCollection{sep-voting-methods,
-		author       =	{Pacuit, Eric},
-		title        =	{Voting Methods},
-		booktitle    =	{The Stanford Encyclopedia of Philosophy},
-		editor       =	{Edward N. Zalta},
-		howpublished =	{\url{http://plato.stanford.edu/archives/win2011/entries/voting-methods/}},
-		year         =	{2011},
-		edition      =	{Winter 2011},
-	}
+  @InCollection{sep-voting-methods,
+    author       =  {Pacuit, Eric},
+    title        =  {Voting Methods},
+    booktitle    =  {The Stanford Encyclopedia of Philosophy},
+    editor       =  {Edward N. Zalta},
+    howpublished =  {\url{http://plato.stanford.edu/archives/win2011/entries/voting-methods/}},
+    year         =  {2011},
+    edition      =  {Winter 2011},
+  }

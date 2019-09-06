@@ -1,12 +1,12 @@
 ---
 bibtex: @InCollection{sep-justification-public,
-	author       =	{Vallier, Kevin and D'Agostino, Fred},
-	title        =	{Public Justification},
-	booktitle    =	{The Stanford Encyclopedia of Philosophy},
-	editor       =	{Edward N. Zalta},
-	howpublished =	{\url{http://plato.stanford.edu/archives/spr2014/entries/justification-public/}},
-	year         =	{2014},
-	edition      =	{Spring 2014},
+  author       =  {Vallier, Kevin and D'Agostino, Fred},
+  title        =  {Public Justification},
+  booktitle    =  {The Stanford Encyclopedia of Philosophy},
+  editor       =  {Edward N. Zalta},
+  howpublished =  {\url{http://plato.stanford.edu/archives/spr2014/entries/justification-public/}},
+  year         =  {2014},
+  edition      =  {Spring 2014},
 }
 ---
 

@@ -1,12 +1,12 @@
 ---
 Bibtex: @article{barber1996foundationalism,
-				  title={Foundationalism and democracy},
-				  author={Barber, B.R.},
-				  journal={Democracy and difference: contesting the boundaries of the political},
-				  pages={348--360},
-				  year={1996},
-				  publisher={Princeton University Press Princeton}
-				}
+          title={Foundationalism and democracy},
+          author={Barber, B.R.},
+          journal={Democracy and difference: contesting the boundaries of the political},
+          pages={348--360},
+          year={1996},
+          publisher={Princeton University Press Princeton}
+        }
 ---
 
 Foundationalism and Democracy

@@ -1,12 +1,12 @@
 ---
-bibtex:	@incollection{stockwell2011,
-				  title={Before Athens: Early Popular Government in Phoenician and Greek City States},
-				  author={Stockwell, Stephen},
-				  editor = {Isakhan, Benjamin and Stockwell, Stephen},
-				  booktitle={The Secret History of Democracy},
-				  year={2011},
-				  publisher={Palgrave Macmillan London}
-				}
+bibtex:  @incollection{stockwell2011,
+          title={Before Athens: Early Popular Government in Phoenician and Greek City States},
+          author={Stockwell, Stephen},
+          editor = {Isakhan, Benjamin and Stockwell, Stephen},
+          booktitle={The Secret History of Democracy},
+          year={2011},
+          publisher={Palgrave Macmillan London}
+        }
 ---
 
 

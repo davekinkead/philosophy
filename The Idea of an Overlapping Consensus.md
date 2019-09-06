@@ -1,14 +1,14 @@
 ---
 bibtex: @article{rawls1987idea,
-				  title={The idea of an overlapping consensus},
-				  author={Rawls, John},
-				  journal={Oxford journal of legal studies},
-				  volume={7},
-				  number={1},
-				  pages={1--25},
-				  year={1987},
-				  publisher={JSTOR}
-				}
+          title={The idea of an overlapping consensus},
+          author={Rawls, John},
+          journal={Oxford journal of legal studies},
+          volume={7},
+          number={1},
+          pages={1--25},
+          year={1987},
+          publisher={JSTOR}
+        }
 ---
 # The Idea of an Overlapping Consensus
 

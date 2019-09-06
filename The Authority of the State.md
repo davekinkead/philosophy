@@ -29,14 +29,14 @@ Political authority is necessary for societies because of distribution problems 
 
 __Two concepts of authority__ p14
 
-1.	A has authority over B iff B regularly complies with A's requirements.
-2.	A has authority over B iff A's requirement that B ø forms a premise for B's ø-ing without B considering the merits of acting as A requires
+1.  A has authority over B iff B regularly complies with A's requirements.
+2.  A has authority over B iff A's requirement that B ø forms a premise for B's ø-ing without B considering the merits of acting as A requires
 
 Green supports the latter view noting that an order: p19
 
-	"is accepted as binding only if it forms a premise for the subject's action without his considering the merits of what it requires." 
+  "is accepted as binding only if it forms a premise for the subject's action without his considering the merits of what it requires." 
 
-## The Nature of Authority	
+## The Nature of Authority  
 
 A complete theory of the state needs to include an account of what it is for the state to exist as a differentiated form of social order, and explain the social characteristics that distinguish it. p21
 
@@ -64,7 +64,7 @@ Authority is exclusionary. It's commands exclude other balance of reason calcula
 
 __Green's Def of Authority__ p41--42
 
-	A has authority over B iff the fact that A requires B to ø gives B a content independent reason to ø, and excludes some of B's reasons for not ø-ing.
+  A has authority over B iff the fact that A requires B to ø gives B a content independent reason to ø, and excludes some of B's reasons for not ø-ing.
 
 The institutional nature of authority is non-essential.  Institutions use, rather than explain, authority. p44
 

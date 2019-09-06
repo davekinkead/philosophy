@@ -1,12 +1,12 @@
 ---
 bibtex: @article{goldstick1973alleged,
-				  title={An alleged paradox in the theory of democracy},
-				  author={Goldstick, D.},
-				  journal={Philosophy \& Public Affairs},
-				  pages={181--189},
-				  year={1973},
-				  publisher={JSTOR}
-				}
+          title={An alleged paradox in the theory of democracy},
+          author={Goldstick, D.},
+          journal={Philosophy \& Public Affairs},
+          pages={181--189},
+          year={1973},
+          publisher={JSTOR}
+        }
 ---
 # An Alleged Paradox in the Theory of Democracy
 

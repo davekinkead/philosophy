@@ -21,7 +21,7 @@ p3
 
 A situation where what is best for each person individually leads to mutual defection, whereas everyone would have been better off with mutual cooperation. p9.
 
-	Formally, it occurs when both players face T > R > P S.  (T)emptation to defect, (R)eward for mutual cooperation, (P)unishment for mutual defection, (S)uckers payoff for cooperating with a defector.
+  Formally, it occurs when both players face T > R > P S.  (T)emptation to defect, (R)eward for mutual cooperation, (P)unishment for mutual defection, (S)uckers payoff for cooperating with a defector.
 
 Actual payoffs and their symmetry between players don't matter as long as the inequality holds. 
 
@@ -53,7 +53,7 @@ A world of mean strategies (such as All D) cannot be invaded by a single coopera
 
 Advantage of cooperative strategies against a mix of others is:
 
-	Rc * p + Rd * p (1 - p)  Rc - discounted reward for cooperation, Rd - discounted reward for defection, p - proportion of cooperative players.
+  Rc * p + Rd * p (1 - p)  Rc - discounted reward for cooperation, Rd - discounted reward for defection, p - proportion of cooperative players.
 
 If a nice strategy cannot be invaded by a single meanie, it cannot be invaded by a cluster of meanies. p67
 

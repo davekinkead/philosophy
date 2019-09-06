@@ -1,10 +1,10 @@
 ---
 bibtex: @book{ratnapala2009jurisprudence,
-			  title={Jurisprudence},
-			  author={Ratnapala, Anura S},
-			  year={2009},
-			  publisher={Cambridge University Press}
-			}
+        title={Jurisprudence},
+        author={Ratnapala, Anura S},
+        year={2009},
+        publisher={Cambridge University Press}
+      }
 ---
 # Jurisprudence
 

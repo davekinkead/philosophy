@@ -23,17 +23,17 @@ A definition of CJT:
 
 "According to Condorcet’s Jury Theorem, the probability (PN) that an electorate of size N will make a correct decision is given by equation 1 (Estlund, 1994, p. 136; Goodin and Estlund, 2004, p. 142; Mueller, 2003, p. 129):2"
 
-		N N! i N−i
-		PN =∑(N−i)!i!(pc)(1−pc) (1)
-		i=m
+    N N! i N−i
+    PN =∑(N−i)!i!(pc)(1−pc) (1)
+    i=m
 
 "When voting has no opportunity cost, the expected marginal value (EV) of the Nth voter’s vote is given by equation 3:" (p57)
 
-		EV = ΔPn (VC −VW)
+    EV = ΔPn (VC −VW)
 
 "If voting had no opportunity cost, the optimal number of voters would be infinite." p57
 
-		EV =ΔPN(VC −VW)−Co
+    EV =ΔPN(VC −VW)−Co
 
 " On the Condorcetian model, the optimal number of voters is a function of three variables: (a) the opportunity cost of voting; (b) the difference in expected value between the better and worse electoral results; and (c) the competence of the voters." p58
 

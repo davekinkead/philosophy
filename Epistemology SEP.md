@@ -1,12 +1,12 @@
 ---
 bibtex: @InCollection{sep-epistemology,
-	author       =	{Steup, Matthias},
-	title        =	{Epistemology},
-	booktitle    =	{The Stanford Encyclopedia of Philosophy},
-	editor       =	{Edward N. Zalta},
-	howpublished =	{\url{http://plato.stanford.edu/archives/spr2014/entries/epistemology/}},
-	year         =	{2014},
-	edition      =	{Spring 2014},
+  author       =  {Steup, Matthias},
+  title        =  {Epistemology},
+  booktitle    =  {The Stanford Encyclopedia of Philosophy},
+  editor       =  {Edward N. Zalta},
+  howpublished =  {\url{http://plato.stanford.edu/archives/spr2014/entries/epistemology/}},
+  year         =  {2014},
+  edition      =  {Spring 2014},
 }
 ---
 

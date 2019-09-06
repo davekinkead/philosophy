@@ -1,24 +1,22 @@
 ---
-bibtex: 	@article{pogge1992cosmopolitanism,
-					  title={Cosmopolitanism and sovereignty},
-					  author={Pogge, T.W.},
-					  journal={Ethics},
-					  volume={103},
-					  number={1},
-					  pages={48--75},
-					  year={1992},
-					  publisher={JSTOR}
-					}
+bibtex: @article{pogge1992cosmopolitanism,
+  title={Cosmopolitanism and sovereignty},
+  author={Pogge, T.W.},
+  journal={Ethics},
+  volume={103},
+  number={1},
+  pages={48--75},
+  year={1992},
+  publisher={JSTOR}
+}
 ---
 
-
-Cosmopolitanism and Sovereignty
-===============================
+# Cosmopolitanism and Sovereignty
 
 Thomas Pogge 1992
 
-Cosmopolitanism
----------------
+## Cosmopolitanism
+
 
 3 elements are shared by all cosmopolitan positions: (p48)
 
@@ -36,13 +34,13 @@ The central idea of moral cosmopolitanism is that every human being has global s
 Moral cosmopolitanism can be further divided into: (p50)
 
 - institutional conceptions concerning fundamental principles of justice.
-	- directs responsibilities to institutional schemes.
-	- impose constraints upon shared practices.
-	- responsibility extends to the bounds of institutional affect.
+  - directs responsibilities to institutional schemes.
+  - impose constraints upon shared practices.
+  - responsibility extends to the bounds of institutional affect.
 - interactional conceptions concerning fundamental principles of ethics.
-	- direct responsibility for the fulfilment of human rights to others (both individuals and groups)
-	- impose constraints on conduct.
-	- responsibility extends to those we interact with.
+  - direct responsibility for the fulfilment of human rights to others (both individuals and groups)
+  - impose constraints on conduct.
+  - responsibility extends to those we interact with.
 
 If we only accept and institutional conception of human rights, then we need some additional moral conception if we wish to deny that anything goes in a state of nature. (p51)
 
@@ -71,10 +69,10 @@ A is sovereign over B iff: (p57)
 1. A is a governmental body or officer ('agency'), and
 2. B are persons, and
 3. A has unsupervised and irrevocable authority over B
-	1. to lay down rules constraining their conduct, or
-	2. to judge their compliance with rules, or
-	3. to enforce rules against them, or
-	4. to act on their behalf vis-a-vis other agencies or persons
+  1. to lay down rules constraining their conduct, or
+  2. to judge their compliance with rules, or
+  3. to enforce rules against them, or
+  4. to act on their behalf vis-a-vis other agencies or persons
 
 A has absolute sovereignty over B off:
 
@@ -129,8 +127,7 @@ Developments of the past few centuries have greatly increased the significance o
 A good deal of weight should to those who actually suffer abridgements in democratic processes. (p68)
 
 
-Shaping Political Units
------------------------
+## Shaping Political Units
 
 
 Pogge's argument against states having moral claims or considerations (cf Walzer 'Just & Unjust Wars'): "Why do we not also take into account the moral claims of Catholiscism, art, or baseball?" (p74)

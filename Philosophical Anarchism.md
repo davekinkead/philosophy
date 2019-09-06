@@ -29,9 +29,9 @@ We can still have duties to our fellow citizens qua persons versus our fellow ci
 The practical recommendations of philosophical anarchism will converge with those of defenders of state legitimacy whenever legally required conduct is independently required or recommended by moral considerations. p118
 
 
-	@book{simmons2001justification,
-	  title={Justification and legitimacy: Essays on rights and obligations},
-	  author={Simmons, A.J.},
-	  year={2001},
-	  publisher={Cambridge Univ Pr}
-	}
+  @book{simmons2001justification,
+    title={Justification and legitimacy: Essays on rights and obligations},
+    author={Simmons, A.J.},
+    year={2001},
+    publisher={Cambridge Univ Pr}
+  }

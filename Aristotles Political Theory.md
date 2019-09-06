@@ -1,12 +1,12 @@
 ---
 bibtex: @InCollection{sep-aristotle-politics,
-	author       =	{Miller, Fred},
-	title        =	{Aristotle's Political Theory},
-	booktitle    =	{The Stanford Encyclopedia of Philosophy},
-	editor       =	{Edward N. Zalta},
-	howpublished =	{\url{http://plato.stanford.edu/archives/fall2012/entries/aristotle-politics/}},
-	year         =	{2012},
-	edition      =	{Fall 2012},
+  author       =  {Miller, Fred},
+  title        =  {Aristotle's Political Theory},
+  booktitle    =  {The Stanford Encyclopedia of Philosophy},
+  editor       =  {Edward N. Zalta},
+  howpublished =  {\url{http://plato.stanford.edu/archives/fall2012/entries/aristotle-politics/}},
+  year         =  {2012},
+  edition      =  {Fall 2012},
 }
 ---
 
@@ -34,11 +34,11 @@ bibtex: @InCollection{sep-aristotle-politics,
 
 ### Six possible constitutional forms (Politics III.7)
 
-Rulers 	|		Correct  		|	Deviant
+Rulers   |    Correct      |  Deviant
 --------|---------------|----------
-One			| 	Kingship 		|	Tyranny
-Few 		|	Aristocracy		|	Oligarchy
-Many		| 	Polity 			|	Democracy
+One      |   Kingship     |  Tyranny
+Few     |  Aristocracy    |  Oligarchy
+Many    |   Polity       |  Democracy
 
 "polity is later characterized as a kind of “mixed” constitution typified by rule of the “middle” group of citizens, a moderately wealthy class between the rich and poor (Politics IV.11)." -- see Timocracy
 

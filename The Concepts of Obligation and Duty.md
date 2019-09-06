@@ -1,14 +1,14 @@
 ---
-bibtex:		@article{brandt1964concepts,
-					  title={The concepts of obligation and duty},
-					  author={Brandt, R.B.},
-					  journal={Mind},
-					  volume={73},
-					  number={291},
-					  pages={374--393},
-					  year={1964},
-					  publisher={JSTOR}
-					}
+bibtex:    @article{brandt1964concepts,
+            title={The concepts of obligation and duty},
+            author={Brandt, R.B.},
+            journal={Mind},
+            volume={73},
+            number={291},
+            pages={374--393},
+            year={1964},
+            publisher={JSTOR}
+          }
 ---
 
 The Concepts of Obligation and Duty
@@ -27,13 +27,13 @@ Obligation and duty, in the paradigmatic sense, can be contrasted as thus:
 
 Obligations have in common: p387
 
--	two parties are involved
-- 	a roughly specifiable service is required of one person
--	a prior transaction is the source of the relationship
+-  two parties are involved
+-   a roughly specifiable service is required of one person
+-  a prior transaction is the source of the relationship
 
 Duties have in common: p388
 
--	an individual occupies some position in an organisation
--	the position is deemed of some value to the organisation
--	the job is associated with the office occupied by the individual
--	performance is expected and required
+-  an individual occupies some position in an organisation
+-  the position is deemed of some value to the organisation
+-  the job is associated with the office occupied by the individual
+-  performance is expected and required

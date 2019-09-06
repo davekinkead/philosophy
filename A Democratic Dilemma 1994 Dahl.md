@@ -1,16 +1,16 @@
 ---
-bibtex:	@article{dahl1994democratic,
-				  title={A democratic dilemma: system effectiveness versus citizen participation},
-				  author={Dahl, R.A.},
-				  journal={Political Science Quarterly},
-				  volume={109},
-				  number={1},
-				  pages={23--34},
-				  year={1994},
-				  publisher={JSTOR}
-				}
+bibtex:  @article{dahl1994democratic,
+          title={A democratic dilemma: system effectiveness versus citizen participation},
+          author={Dahl, R.A.},
+          journal={Political Science Quarterly},
+          volume={109},
+          number={1},
+          pages={23--34},
+          year={1994},
+          publisher={JSTOR}
+        }
 ---
-#	A Democratic Dilemma: System Effectiveness vs Citizen Participation
+#  A Democratic Dilemma: System Effectiveness vs Citizen Participation
 
 **Robert Dahl 1994**
 

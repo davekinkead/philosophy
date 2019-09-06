@@ -69,7 +69,7 @@ History
 
 The skeptical objection:
 
-> Duhem, the great historian of physics, is almost alone in what has been understood as an outright condemnation of scientific thought experiments (see Duhem, 1913, pp. 304–311). A thought experiment is no substitute for a real experiment, he claimed, and should be forbidden in science, including science education. 
+> Duhem, the great historian of physics, is almost alone in what has been understood as an outright condemnation of scientific thought experiments (see Duhem, 1913, pp. 304–311). A thought experiment is no substitute for a real experiment, he claimed, and should be forbidden in science, including science education.
 
 > “A popular strategy in philosophy is to construct a certain sort of thought experiment I call intuition pump. […] Intuition pumps are often abused, though seldom deliberately.” (Dennett, 1985, p. 12)
 

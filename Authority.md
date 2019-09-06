@@ -1,13 +1,13 @@
 ---
 bibtex: @InCollection{sep-authority,
-					author       =	{Christiano, Tom},
-					title        =	{Authority},
-					booktitle    =	{The Stanford Encyclopedia of Philosophy},
-					editor       =	{Edward N. Zalta},
-					howpublished =	{\url{http://plato.stanford.edu/archives/spr2012/entries/authority/}},
-					year         =	{2012},
-					edition      =	{Spring 2012},
-				}
+          author       =  {Christiano, Tom},
+          title        =  {Authority},
+          booktitle    =  {The Stanford Encyclopedia of Philosophy},
+          editor       =  {Edward N. Zalta},
+          howpublished =  {\url{http://plato.stanford.edu/archives/spr2012/entries/authority/}},
+          year         =  {2012},
+          edition      =  {Spring 2012},
+        }
 ---
 
 #Authority
@@ -18,7 +18,7 @@ Notes from http://plato.stanford.edu/entries/authority/
 
 au·thor·i·ty/əˈTHôritē/
 
-Noun:	
+Noun:  
 
     The power or right to give orders, make decisions, and enforce obedience: "he had absolute authority over his subordinates".
     The right to act in a specified way, delegated from one person or organization to another.

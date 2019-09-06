@@ -30,11 +30,11 @@ Genuine cooperation requires not just successful coordination of actions, but al
 
 
 Bibtex
-	@article{simmons2001fair,
-	  title={Fair Play and Political Obligation: Twenty Years Later},
-	  author={Simmons, A.},
-	  journal={Justification and Legitimacy: Essays on Rights and Obligations},
-	  volume={27},
-	  pages={29--31},
-	  year={2001}
-	}
+  @article{simmons2001fair,
+    title={Fair Play and Political Obligation: Twenty Years Later},
+    author={Simmons, A.},
+    journal={Justification and Legitimacy: Essays on Rights and Obligations},
+    volume={27},
+    pages={29--31},
+    year={2001}
+  }

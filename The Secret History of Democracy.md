@@ -1,12 +1,12 @@
 ---
-bibtex:	@article{isakhan2012introduction,
-				  title={Introduction: democracy and history},
-				  author={Isakhan, B. and Stockwell, S.},
-				  journal={The secret history of democracy},
-				  pages={1--16},
-				  year={2011},
-				  publisher={Palgrave Macmillan}
-				}
+bibtex:  @article{isakhan2012introduction,
+          title={Introduction: democracy and history},
+          author={Isakhan, B. and Stockwell, S.},
+          journal={The secret history of democracy},
+          pages={1--16},
+          year={2011},
+          publisher={Palgrave Macmillan}
+        }
 ---
 # The Secret History of Democracy
 

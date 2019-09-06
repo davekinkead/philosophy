@@ -1,12 +1,12 @@
 ---
-bibtext: 	@article{beck2011cosmopolitan,
-					  title={The cosmopolitan manifesto},
-					  author={Beck, U.},
-					  journal={The Cosmopolitanism Reader},
-					  pages={217},
-					  year={2011},
-					  publisher={Polity Pr}
-					}
+bibtext:   @article{beck2011cosmopolitan,
+            title={The cosmopolitan manifesto},
+            author={Beck, U.},
+            journal={The Cosmopolitanism Reader},
+            pages={217},
+            year={2011},
+            publisher={Polity Pr}
+          }
 ---
 
 The Cosmopolitan Manifesto

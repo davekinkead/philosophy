@@ -1,5 +1,5 @@
 ---
-bibtex: @book{jowett1873dialogues,
+bibtex: @book{jowett1873dialogues, 
   title={The dialogues of Plato},
   author={Jowett, Benjamin and others},
   volume={4},

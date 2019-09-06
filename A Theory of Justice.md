@@ -1,10 +1,10 @@
 ---
-bibtext: @book{rawls1999theory,
-				  title={A theory of justice},
-				  author={Rawls, John},
-				  year={1999},
-				  publisher={Belknap Press}
-				}
+bibtex: @book{rawls1999theory,
+          title={A theory of justice},
+          author={Rawls, John},
+          year={1999},
+          publisher={Belknap Press}
+        }
 ---
 
 # A Theory of Justice

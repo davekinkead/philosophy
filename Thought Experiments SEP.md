@@ -32,19 +32,19 @@ Uses
 
 Destuctive Experiments:
 
-A thought experiment shows that a theory has interntal contradictions (Galileo's falling bodies to show the contradiction in Aristotle's account)
+ - A thought experiment shows that a theory has interntal contradictions (Galileo's falling bodies to show the contradiction in Aristotle's account)
 
-A TE shows theory contradicts other important beliefs or theories (Schrödinger's cat)
+ - A TE shows theory contradicts other important beliefs or theories (Schrödinger's cat)
 
-A TE shows that a key premise in the TE is undermined by the conclusion (JJT's violinist)
+ - A TE shows that a key premise in the TE is undermined by the conclusion (JJT's violinist)
 
-A counter TE shows that some of the original TE is dubious.
+ - A counter TE shows that some of the original TE is dubious.
 
 Constructive Experiments:
 
-A TE acts as a heuristic to deepen our understanding what we already know empirically.
+ - A TE acts as a heuristic to deepen our understanding what we already know empirically.
 
-A TE acts as an 'intuition pump'
+ - A TE acts as an 'intuition pump'
 
 Typical Process:
 
@@ -67,6 +67,16 @@ History
 
 > According to Grant (2007, 201), during the late Middle Ages “the imagination became a formidable instrument in natural philosophy and theology in ways that would have astonished” ancient Greek natural philosophers, especially Aristotle.
 
+Epistemology of Thought Experiment
+
+  - the “skeptical objection”, 
+  - the “intuition–based account”, 
+  - the “argument view”, 
+  - the “conceptual constructivism”, 
+  - the “experimentalism”, 
+  - the “mental–model account”.
+
+
 The skeptical objection:
 
 > Duhem, the great historian of physics, is almost alone in what has been understood as an outright condemnation of scientific thought experiments (see Duhem, 1913, pp. 304–311). A thought experiment is no substitute for a real experiment, he claimed, and should be forbidden in science, including science education.
@@ -80,6 +90,8 @@ The skeptical objection:
 > Timothy Williamson has argued that we should forget about intuition as a cushion in the philosophical armchair (see Williamson, 2004a,b, 2008, pp. 179–207, and 2009). 
 
 > David Chalmers thinks that good thought experiments can be a guide to possibilities if the entailments of conceivability and possibility that he defends are sound (p. 153)
+
+
 
 
 Thought Experiments vs Computer Simulations

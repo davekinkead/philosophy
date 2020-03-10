@@ -18,6 +18,8 @@ bibtex: @article{Olsson2011-OLSASA,
 
 Tests claims in veritistic social epistemology using a desktop simulation of network propogation "LAPUTA" to address issues raised by Goodman (1999)
 
+No source code or link provided!!!
+
 > My main point is that the method of computer simulation can be used to overcome the computational obstacle that Goldman has identified for veritistic social epistemology. (p138)
 
 The Truth Objection (p131)

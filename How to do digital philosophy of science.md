@@ -68,7 +68,3 @@ Reproduceability has 3 issues ...
 > Many analyses in the digital humanities lack statistical validation, and have only a history of successful use as evidence in their favor (see, e.g., the discussion of validation in Koppel, Schler, and Argamon 2009). (p14)
 
 > Pence has recently combined existing work on an episode in the history of biology (Pence 2011) with digital tools (Ramsey and Pence 2016), to produce a more general hypothesis about debates over paradigm change, which is now ripe for a non-digital analysis (Pence in preparation). (p15)
-
-
-
-

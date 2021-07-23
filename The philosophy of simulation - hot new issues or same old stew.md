@@ -51,9 +51,8 @@ Defining simulation  (p596)
 
 Others:
 
-> Thus we endorse Humphreys’ conclusion that computational techniques ‘constitutes a signifi- cant and permanent addition to the methods of science’ (2004, p. 64).
+> Thus we endorse Humphreys’ conclusion that computational techniques ‘constitutes a significant and permanent addition to the methods of science’ (2004, p. 64).
 
 > Several philosophers, historians and scientists claim that simulations create ‘parallel’ (or ‘virtual’ or ‘artificial’) worlds (cf. Galison 1996, from which we quoted above, Edwards 2001, Sterman 2006). 
 
-> Winsberg (2001) ascribes three features to the allegedly distinct epistemology of simulation:
-it is downward [Simulation is about starting with theory and working your way down], autonomous [Difficult to compare to reality] and motley [resorts to other approximations, idealizations and even ‘falsifications’]
+> Winsberg (2001) ascribes three features to the allegedly distinct epistemology of simulation: it is downward [Simulation is about starting with theory and working your way down], autonomous [Difficult to compare to reality] and motley [resorts to other approximations, idealizations and even ‘falsifications’]

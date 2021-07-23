@@ -24,13 +24,18 @@ Non-traditional theories claim that _S knows that p_ when S's belief has a high 
 
 "Reliabilism...is that this is accomplished if, and only if, a belief originates in reliable cognitive processes or faculties"
 
+
+## Cognitive Success
+
+
+
+
 ## Justification
 
 Analysis of justification can consider 2 things: 
 
 - what do we mean when we use the word ‘justification’? 
 - what makes beliefs justified? 
-
 
 Deontological Justification (DJ): S is justified in believing that p if and only if S believes that p while it is not the case that S is obliged to refrain from believing that p.
 

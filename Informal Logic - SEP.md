@@ -55,9 +55,11 @@ bibtex: @InCollection{sep-logic-informal,
 
   - Johnson 1996 ... “dissatisfaction with formal logic as the vehicle for teaching skill in argument evaluation and argument formation” and “A desire to provide a complete theory of reasoning that goes beyond formal deductive and inductive logic.” (p11)
 
-
+> Informal logic understands arguments in the evidentiary sense as collections of premises and conclusions. The premises provide the evidence that supports the conclusion. Hitchcock 2007 defines an argument as “a claim-reason complex” consisting of (1) an act of concluding, (2) one or more acts of premising (which assert propositions in favour of the conclusion), and (3) a stated or implicit inference word that indicates that the conclusion follows from the premises. This makes arguments intentional acts that incorporate (1), (2) and (3). 
 
 ## Modes of arguing
+
+> Hitchcock’s account of argument accommodates ... the possibility that premises and conclusions may be speech acts of different sorts. In particular, it allows a premise to be forwarded by any communication act which asserts a proposition (including, e.g., suggesting, hypothesizing, insulting and boasting); and allows a conclusion to be a request for information (“You were there, so what was it like?”); a request to do something (“The children are shivering, so please close the door.”); a commissive (“I know it matters to you, so I promise to go tomorrow.”), an expressive (“What we did was inexcusable, so we apologize.”) or a declarative (“The evidence shows that you committed an assault, so I find you guilty as charged.”). This broadening of the notion of argument is an essential way to recognize and distinguish the diverse roles that argument and inference actually play in real life contexts.
 
 Arguments need not be language based
 
@@ -77,6 +79,13 @@ EG
 
 > Extending the notion of argument so that it encompasses different modes of arguing can be done without giving up the evidentiary notion of argument or the idea that evidence is presented in a set of premises that support some conclusion
 
+See also 
+
+> Gilbert (1997, 2014) develops his account by recognizing argument as it is traditionally conceived as the “logical” mode of argument, and by adding to it “emotional,” intuitive (“kisceral”), and physical (“visceral”) modes of argument. According to this account, a hug, a forlorn look, or tears may count as argument. In real life situations, this underscores the point that they may be a more effective method of resolving disagreement than premises as they have been traditionally conceived.
+
+## Dressing Arguments
+
+- identifying the various parts of an argument.
 
 ## Normative Aspects of Informal Logic
 
